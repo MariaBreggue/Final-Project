@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://educationaldata.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://educationaldata.org/westvirginia">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297000</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13700</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6300</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/iowa">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39200</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44000</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/kentucky">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">611700</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107600</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39700</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/washington">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">494200</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224300</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/texas">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1039400</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">680700</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2475100</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/utah">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225500</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9000</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98600</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/tennessee">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">658400</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">294400</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96100</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/montana">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6300</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/indiana">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">639500</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163400</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108800</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/massachusetts">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">371600</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86800</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">188100</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/northcarolina">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">710900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">533100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264000</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/hawaii">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34300</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19200</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/maryland">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197400</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257200</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62900</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/arizona">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">407300</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55000</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502700</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/idaho">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169800</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46900</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/virginia">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">437700</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">287800</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89500</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/nevada">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50000</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163400</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/districtofcolumbia">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17400</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79700</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8400</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/missouri">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">594400</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201700</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57800</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/minnesota">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338600</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56000</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/northdakota">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58300</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3200</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/newjersey">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198800</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298700</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/vermont">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64200</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/wisconsin">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121300</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82500</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/maine">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">156000</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4700</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/pennsylvania">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">944600</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348500</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223800</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/colorado">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323800</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40200</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239600</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/georgia">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">604800</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">746700</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">265700</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/ohio">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1147700</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">444400</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109400</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/alaska">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36200</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2700</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/oregon">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">390000</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23800</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130100</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/southcarolina">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">342900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">373800</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73600</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/arkansas">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52700</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/alabama">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">414000</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">395400</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53400</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/oklahoma">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320300</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74300</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100100</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/newmexico">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89200</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">251300</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/newhampshire">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5300</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/rhodeisland">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74700</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41900</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/newyork">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1039300</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">612400</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">854600</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/southdakota">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67800</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5300</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/michigan">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">940200</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">439100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123500</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/puertorico">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10500</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1638400</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/wyoming">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9100</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/delaware">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50300</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15100</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/connecticut">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65000</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106300</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/nebraska">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">143600</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30000</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41300</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/illinois">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">695600</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">534200</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">411100</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/california">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1420900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3134400</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/kansas">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42600</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71200</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/florida">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1217200</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786900</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">918900</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/mississippi">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229100</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">377000</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19500</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://educationaldata.org/louisiana">
+    <rdf:type rdf:resource="http://educationaldata.org/State"/>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302300</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">445300</ns1:Poverty>
+    <ns1:Poverty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37800</ns1:Poverty>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/White"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Black"/>
+    <ns1:hasEthnicityData rdf:resource="http://educationaldata.org/Hispanic"/>
+  </rdf:Description>
+</rdf:RDF>

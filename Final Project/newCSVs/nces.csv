@@ -1,0 +1,3025 @@
+Year,State,Ethnicity,Grade,Enrollment,Dropout
+2002,alabama,Black,7,22817,18
+2002,alaska,Black,7,532,5
+2002,arizona,Black,7,3612,187
+2002,arkansas,Black,7,0,0
+2002,california,Black,7,43647,63
+2002,colorado,Black,7,3524,14
+2002,connecticut,Black,7,6387,37
+2002,delaware,Black,7,3075,7
+2002,district of columbia,Black,7,0,0
+2002,florida,Black,7,50384,896
+2002,georgia,Black,7,47604,380
+2002,hawaii,Black,7,342,6
+2002,idaho,Black,7,0,0
+2002,illinois,Black,7,33299,390
+2002,indiana,Black,7,10189,41
+2002,iowa,Black,7,1551,2
+2002,kansas,Black,7,3451,10
+2002,kentucky,Black,7,5232,10
+2002,louisiana,Black,7,26622,668
+2002,maine,Black,7,267,0
+2002,maryland,Black,7,26629,52
+2002,massachusetts,Black,7,7092,14
+2002,michigan,Black,7,31714,1107
+2002,minnesota,Black,7,5015,35
+2002,mississippi,Black,7,21130,148
+2002,missouri,Black,7,13328,47
+2002,montana,Black,7,88,0
+2002,nebraska,Black,7,1612,10
+2002,nevada,Black,7,3354,97
+2002,new hampshire,Black,7,0,0
+2002,new jersey,Black,7,19300,179
+2002,new mexico,Black,7,600,4
+2002,new york,Black,7,46398,35
+2002,north carolina,Black,7,34937,130
+2002,north dakota,Black,7,87,0
+2002,ohio,Black,7,25701,376
+2002,oklahoma,Black,7,5485,78
+2002,oregon,Black,7,1193,0
+2002,pennsylvania,Black,7,23299,0
+2002,rhode island,Black,7,1072,0
+2002,south carolina,Black,7,22230,40
+2002,south dakota,Black,7,138,0
+2002,tennessee,Black,7,0,0
+2002,texas,Black,7,47430,96
+2002,utah,Black,7,374,8
+2002,vermont,Black,7,101,0
+2002,virginia,Black,7,0,0
+2002,washington,Black,7,0,0
+2002,west virginia,Black,7,970,0
+2002,wisconsin,Black,7,7407,198
+2002,wyoming,Black,7,90,0
+2002,american samoa,Black,7,0,0
+2002,guam,Black,7,0,0
+2002,northern marianas,Black,7,0,0
+2002,puerto rico,Black,7,0,0
+2002,virgin islands,Black,7,0,0
+2002,alabama,White,7,37114,43
+2002,alaska,White,7,6726,41
+2002,arizona,White,7,36738,902
+2002,arkansas,White,7,0,0
+2002,california,White,7,0,0
+2002,colorado,White,7,39074,46
+2002,connecticut,White,7,31750,33
+2002,delaware,White,7,5620,12
+2002,district of columbia,White,7,0,0
+2002,florida,White,7,107498,690
+2002,georgia,White,7,64037,233
+2002,hawaii,White,7,2837,19
+2002,idaho,White,7,0,0
+2002,illinois,White,7,97076,857
+2002,indiana,White,7,67427,35
+2002,iowa,White,7,34452,3
+2002,kansas,White,7,29393,10
+2002,kentucky,White,7,44454,30
+2002,louisiana,White,7,28121,293
+2002,maine,White,7,16633,12
+2002,maryland,White,7,36575,17
+2002,massachusetts,White,7,59772,25
+2002,michigan,White,7,0,0
+2002,minnesota,White,7,54895,39
+2002,mississippi,White,7,19911,50
+2002,missouri,White,7,57349,64
+2002,montana,White,7,10472,11
+2002,nebraska,White,7,18404,10
+2002,nevada,White,7,16228,306
+2002,new hampshire,White,7,0,0
+2002,new jersey,White,7,65882,11
+2002,new mexico,White,7,8442,54
+2002,new york,White,7,129157,22
+2002,north carolina,White,7,0,0
+2002,north dakota,White,7,7302,0
+2002,ohio,White,7,115438,318
+2002,oklahoma,White,7,30036,152
+2002,oregon,White,7,35001,0
+2002,pennsylvania,White,7,117140,0
+2002,rhode island,White,7,9517,2
+2002,south carolina,White,7,29083,24
+2002,south dakota,White,7,8687,2
+2002,tennessee,White,7,0,0
+2002,texas,White,7,135488,84
+2002,utah,White,7,31303,193
+2002,vermont,White,7,7781,0
+2002,virginia,White,7,0,0
+2002,washington,White,7,0,0
+2002,west virginia,White,7,21414,17
+2002,wisconsin,White,7,54496,27
+2002,wyoming,White,7,6144,7
+2002,american samoa,White,7,0,0
+2002,guam,White,7,0,0
+2002,northern marianas,White,7,0,0
+2002,puerto rico,White,7,0,0
+2002,virgin islands,White,7,0,0
+2002,alabama,Hispanic,7,981,1
+2002,alaska,Hispanic,7,425,1
+2002,arizona,Hispanic,7,26435,1069
+2002,arkansas,Hispanic,7,0,0
+2002,california,Hispanic,7,0,0
+2002,colorado,Hispanic,7,14034,36
+2002,connecticut,Hispanic,7,6368,50
+2002,delaware,Hispanic,7,666,0
+2002,district of columbia,Hispanic,7,0,0
+2002,florida,Hispanic,7,43377,813
+2002,georgia,Hispanic,7,6531,82
+2002,hawaii,Hispanic,7,634,4
+2002,idaho,Hispanic,7,0,0
+2002,illinois,Hispanic,7,24851,188
+2002,indiana,Hispanic,7,3134,10
+2002,iowa,Hispanic,7,1483,2
+2002,kansas,Hispanic,7,3643,10
+2002,kentucky,Hispanic,7,585,0
+2002,louisiana,Hispanic,7,886,17
+2002,maine,Hispanic,7,117,2
+2002,maryland,Hispanic,7,3800,0
+2002,massachusetts,Hispanic,7,9061,18
+2002,michigan,Hispanic,7,0,0
+2002,minnesota,Hispanic,7,2567,18
+2002,mississippi,Hispanic,7,394,1
+2002,missouri,Hispanic,7,1570,12
+2002,montana,Hispanic,7,249,2
+2002,nebraska,Hispanic,7,1834,11
+2002,nevada,Hispanic,7,8494,180
+2002,new hampshire,Hispanic,7,0,0
+2002,new jersey,Hispanic,7,17557,38
+2002,new mexico,Hispanic,7,13138,90
+2002,new york,Hispanic,7,42459,12
+2002,north carolina,Hispanic,7,0,0
+2002,north dakota,Hispanic,7,102,0
+2002,ohio,Hispanic,7,2809,48
+2002,oklahoma,Hispanic,7,3083,45
+2002,oregon,Hispanic,7,4943,0
+2002,pennsylvania,Hispanic,7,7699,0
+2002,rhode island,Hispanic,7,2112,1
+2002,south carolina,Hispanic,7,1351,3
+2002,south dakota,Hispanic,7,163,0
+2002,tennessee,Hispanic,7,0,0
+2002,texas,Hispanic,7,132349,345
+2002,utah,Hispanic,7,3822,66
+2002,vermont,Hispanic,7,61,0
+2002,virginia,Hispanic,7,0,0
+2002,washington,Hispanic,7,0,0
+2002,west virginia,Hispanic,7,111,0
+2002,wisconsin,Hispanic,7,3344,49
+2002,wyoming,Hispanic,7,584,0
+2002,american samoa,Hispanic,7,0,0
+2002,guam,Hispanic,7,0,0
+2002,northern marianas,Hispanic,7,0,0
+2002,puerto rico,Hispanic,7,0,0
+2002,virgin islands,Hispanic,7,0,0
+2002,alabama,Black,8,20592,50
+2002,alaska,Black,8,479,5
+2002,arizona,Black,8,3246,138
+2002,arkansas,Black,8,0,0
+2002,california,Black,8,41820,115
+2002,colorado,Black,8,3267,10
+2002,connecticut,Black,8,6110,33
+2002,delaware,Black,8,3212,17
+2002,district of columbia,Black,8,0,0
+2002,florida,Black,8,48473,1164
+2002,georgia,Black,8,44688,496
+2002,hawaii,Black,8,274,6
+2002,idaho,Black,8,0,0
+2002,illinois,Black,8,31998,714
+2002,indiana,Black,8,9569,39
+2002,iowa,Black,8,1527,1
+2002,kansas,Black,8,3401,8
+2002,kentucky,Black,8,5046,13
+2002,louisiana,Black,8,30989,1711
+2002,maine,Black,8,254,0
+2002,maryland,Black,8,25325,75
+2002,massachusetts,Black,8,6714,19
+2002,michigan,Black,8,27227,1483
+2002,minnesota,Black,8,4709,49
+2002,mississippi,Black,8,19165,172
+2002,missouri,Black,8,12510,146
+2002,montana,Black,8,67,0
+2002,nebraska,Black,8,1452,13
+2002,nevada,Black,8,3236,91
+2002,new hampshire,Black,8,0,0
+2002,new jersey,Black,8,18328,46
+2002,new mexico,Black,8,637,5
+2002,new york,Black,8,44705,73
+2002,north carolina,Black,8,33171,237
+2002,north dakota,Black,8,84,0
+2002,ohio,Black,8,23748,461
+2002,oklahoma,Black,8,4868,89
+2002,oregon,Black,8,1225,0
+2002,pennsylvania,Black,8,21857,0
+2002,rhode island,Black,8,1038,4
+2002,south carolina,Black,8,23032,42
+2002,south dakota,Black,8,117,0
+2002,tennessee,Black,8,0,0
+2002,texas,Black,8,46074,366
+2002,utah,Black,8,359,16
+2002,vermont,Black,8,49,0
+2002,virginia,Black,8,25077,340
+2002,washington,Black,8,0,0
+2002,west virginia,Black,8,936,3
+2002,wisconsin,Black,8,6784,263
+2002,wyoming,Black,8,101,0
+2002,american samoa,Black,8,0,0
+2002,guam,Black,8,0,0
+2002,northern marianas,Black,8,0,0
+2002,puerto rico,Black,8,0,0
+2002,virgin islands,Black,8,0,0
+2002,alabama,White,8,35142,140
+2002,alaska,White,8,6468,53
+2002,arizona,White,8,36141,757
+2002,arkansas,White,8,0,0
+2002,california,White,8,0,0
+2002,colorado,White,8,38979,28
+2002,connecticut,White,8,31060,21
+2002,delaware,White,8,5829,18
+2002,district of columbia,White,8,0,0
+2002,florida,White,8,105855,777
+2002,georgia,White,8,62560,335
+2002,hawaii,White,8,2686,35
+2002,idaho,White,8,0,0
+2002,illinois,White,8,95276,928
+2002,indiana,White,8,65981,75
+2002,iowa,White,8,34092,11
+2002,kansas,White,8,28833,15
+2002,kentucky,White,8,43278,58
+2002,louisiana,White,8,27978,548
+2002,maine,White,8,16647,29
+2002,maryland,White,8,36243,29
+2002,massachusetts,White,8,58904,77
+2002,michigan,White,8,0,0
+2002,minnesota,White,8,54956,61
+2002,mississippi,White,8,18509,77
+2002,missouri,White,8,56737,118
+2002,montana,White,8,10410,11
+2002,nebraska,White,8,18128,21
+2002,nevada,White,8,15998,289
+2002,new hampshire,White,8,0,0
+2002,new jersey,White,8,64991,20
+2002,new mexico,White,8,8809,89
+2002,new york,White,8,125724,178
+2002,north carolina,White,8,64310,296
+2002,north dakota,White,8,7512,1
+2002,ohio,White,8,114102,458
+2002,oklahoma,White,8,29747,207
+2002,oregon,White,8,34858,0
+2002,pennsylvania,White,8,116220,0
+2002,rhode island,White,8,9392,8
+2002,south carolina,White,8,30709,38
+2002,south dakota,White,8,8597,2
+2002,tennessee,White,8,0,0
+2002,texas,White,8,134658,565
+2002,utah,White,8,30837,216
+2002,vermont,White,8,7774,0
+2002,virginia,White,8,0,0
+2002,washington,White,8,0,0
+2002,west virginia,White,8,20841,89
+2002,wisconsin,White,8,54526,29
+2002,wyoming,White,8,6121,15
+2002,american samoa,White,8,0,0
+2002,guam,White,8,0,0
+2002,northern marianas,White,8,0,0
+2002,puerto rico,White,8,0,0
+2002,virgin islands,White,8,0,0
+2002,alabama,Hispanic,8,875,4
+2002,alaska,Hispanic,8,374,4
+2002,arizona,Hispanic,8,23960,978
+2002,arkansas,Hispanic,8,0,0
+2002,california,Hispanic,8,0,0
+2002,colorado,Hispanic,8,12976,64
+2002,connecticut,Hispanic,8,5897,39
+2002,delaware,Hispanic,8,670,6
+2002,district of columbia,Hispanic,8,0,0
+2002,florida,Hispanic,8,41421,1164
+2002,georgia,Hispanic,8,5962,127
+2002,hawaii,Hispanic,8,636,5
+2002,idaho,Hispanic,8,0,0
+2002,illinois,Hispanic,8,23378,487
+2002,indiana,Hispanic,8,2913,16
+2002,iowa,Hispanic,8,1441,1
+2002,kansas,Hispanic,8,3415,10
+2002,kentucky,Hispanic,8,537,5
+2002,louisiana,Hispanic,8,867,19
+2002,maine,Hispanic,8,118,1
+2002,maryland,Hispanic,8,3564,1
+2002,massachusetts,Hispanic,8,8602,57
+2002,michigan,Hispanic,8,0,0
+2002,minnesota,Hispanic,8,2312,33
+2002,mississippi,Hispanic,8,344,6
+2002,missouri,Hispanic,8,1457,14
+2002,montana,Hispanic,8,236,0
+2002,nebraska,Hispanic,8,1697,7
+2002,nevada,Hispanic,8,7594,177
+2002,new hampshire,Hispanic,8,0,0
+2002,new jersey,Hispanic,8,16319,34
+2002,new mexico,Hispanic,8,12999,199
+2002,new york,Hispanic,8,40181,63
+2002,north carolina,Hispanic,8,5136,73
+2002,north dakota,Hispanic,8,91,0
+2002,ohio,Hispanic,8,2644,60
+2002,oklahoma,Hispanic,8,3001,79
+2002,oregon,Hispanic,8,4451,0
+2002,pennsylvania,Hispanic,8,7160,0
+2002,rhode island,Hispanic,8,1865,5
+2002,south carolina,Hispanic,8,1229,3
+2002,south dakota,Hispanic,8,162,0
+2002,tennessee,Hispanic,8,0,0
+2002,texas,Hispanic,8,126057,1250
+2002,utah,Hispanic,8,3513,91
+2002,vermont,Hispanic,8,48,0
+2002,virginia,Hispanic,8,5160,41
+2002,washington,Hispanic,8,0,0
+2002,west virginia,Hispanic,8,83,0
+2002,wisconsin,Hispanic,8,3131,61
+2002,wyoming,Hispanic,8,469,4
+2002,american samoa,Hispanic,8,0,0
+2002,guam,Hispanic,8,0,0
+2002,northern marianas,Hispanic,8,0,0
+2002,puerto rico,Hispanic,8,0,0
+2002,virgin islands,Hispanic,8,0,0
+2002,alabama,Black,9,22993,605
+2002,alaska,Black,9,559,40
+2002,arizona,Black,9,3581,306
+2002,arkansas,Black,9,8410,309
+2002,california,Black,9,46628,2286
+2002,colorado,Black,9,3799,162
+2002,connecticut,Black,9,6593,186
+2002,delaware,Black,9,3194,356
+2002,district of columbia,Black,9,0,0
+2002,florida,Black,9,65609,2745
+2002,georgia,Black,9,52927,3111
+2002,hawaii,Black,9,325,18
+2002,idaho,Black,9,151,6
+2002,illinois,Black,9,36604,4176
+2002,indiana,Black,9,10167,244
+2002,iowa,Black,9,1619,50
+2002,kansas,Black,9,3624,86
+2002,kentucky,Black,9,5821,179
+2002,louisiana,Black,9,26156,2859
+2002,maine,Black,9,249,10
+2002,maryland,Black,9,29291,1640
+2002,massachusetts,Black,9,8117,472
+2002,michigan,Black,9,35776,4103
+2002,minnesota,Black,9,4672,153
+2002,mississippi,Black,9,20252,866
+2002,missouri,Black,9,13887,638
+2002,montana,Black,9,74,0
+2002,nebraska,Black,9,1965,137
+2002,nevada,Black,9,3456,187
+2002,new hampshire,Black,9,218,8
+2002,new jersey,Black,9,20577,593
+2002,new mexico,Black,9,641,34
+2002,new york,Black,9,60756,3111
+2002,north carolina,Black,9,38567,2406
+2002,north dakota,Black,9,75,1
+2002,ohio,Black,9,28490,1899
+2002,oklahoma,Black,9,5629,306
+2002,oregon,Black,9,1234,0
+2002,pennsylvania,Black,9,27604,0
+2002,rhode island,Black,9,1277,75
+2002,south carolina,Black,9,28603,1102
+2002,south dakota,Black,9,132,6
+2002,tennessee,Black,9,0,0
+2002,texas,Black,9,56750,1801
+2002,utah,Black,9,365,20
+2002,vermont,Black,9,0,0
+2002,virginia,Black,9,28902,1250
+2002,washington,Black,9,4781,427
+2002,west virginia,Black,9,1004,38
+2002,wisconsin,Black,9,8931,902
+2002,wyoming,Black,9,110,0
+2002,american samoa,Black,9,0,0
+2002,guam,Black,9,0,0
+2002,northern marianas,Black,9,0,0
+2002,puerto rico,Black,9,0,0
+2002,virgin islands,Black,9,0,0
+2002,alabama,White,9,36789,1058
+2002,alaska,White,9,7043,359
+2002,arizona,White,9,40110,1610
+2002,arkansas,White,9,0,0
+2002,california,White,9,180541,2241
+2002,colorado,White,9,41257,620
+2002,connecticut,White,9,31882,300
+2002,delaware,White,9,6306,308
+2002,district of columbia,White,9,0,0
+2002,florida,White,9,126816,3677
+2002,georgia,White,9,68419,3100
+2002,hawaii,White,9,3167,99
+2002,idaho,White,9,17847,361
+2002,illinois,White,9,100086,3059
+2002,indiana,White,9,67799,889
+2002,iowa,White,9,35972,243
+2002,kansas,White,9,30836,270
+2002,kentucky,White,9,47047,1083
+2002,louisiana,White,9,29748,1732
+2002,maine,White,9,16559,288
+2002,maryland,White,9,38325,883
+2002,massachusetts,White,9,60095,1316
+2002,michigan,White,9,109224,2927
+2002,minnesota,White,9,56961,249
+2002,mississippi,White,9,19333,350
+2002,missouri,White,9,59111,958
+2002,montana,White,9,10997,182
+2002,nebraska,White,9,19196,191
+2002,nevada,White,9,17512,639
+2002,new hampshire,White,9,16957,229
+2002,new jersey,White,9,64284,421
+2002,new mexico,White,9,9475,291
+2002,new york,White,9,131801,2192
+2002,north carolina,White,9,69281,2903
+2002,north dakota,White,9,7879,57
+2002,ohio,White,9,122188,1663
+2002,oklahoma,White,9,30958,950
+2002,oregon,White,9,35674,0
+2002,pennsylvania,White,9,121547,0
+2002,rhode island,White,9,9942,241
+2002,south carolina,White,9,34912,1069
+2002,south dakota,White,9,8967,89
+2002,tennessee,White,9,0,0
+2002,texas,White,9,149639,2235
+2002,utah,White,9,31386,341
+2002,vermont,White,9,0,0
+2002,virginia,White,9,62016,1092
+2002,washington,White,9,64542,2914
+2002,west virginia,White,9,21831,696
+2002,wisconsin,White,9,60987,209
+2002,wyoming,White,9,6414,81
+2002,american samoa,White,9,0,0
+2002,guam,White,9,0,0
+2002,northern marianas,White,9,0,0
+2002,puerto rico,White,9,0,0
+2002,virgin islands,White,9,0,0
+2002,alabama,Hispanic,9,891,33
+2002,alaska,Hispanic,9,375,30
+2002,arizona,Hispanic,9,26498,3208
+2002,arkansas,Hispanic,9,1424,49
+2002,california,Hispanic,9,231562,7555
+2002,colorado,Hispanic,9,15389,875
+2002,connecticut,Hispanic,9,6925,350
+2002,delaware,Hispanic,9,646,81
+2002,district of columbia,Hispanic,9,0,0
+2002,florida,Hispanic,9,51327,2092
+2002,georgia,Hispanic,9,6905,558
+2002,hawaii,Hispanic,9,710,20
+2002,idaho,Hispanic,9,1984,119
+2002,illinois,Hispanic,9,26195,2585
+2002,indiana,Hispanic,9,3031,108
+2002,iowa,Hispanic,9,1636,59
+2002,kansas,Hispanic,9,3961,125
+2002,kentucky,Hispanic,9,642,11
+2002,louisiana,Hispanic,9,909,72
+2002,maine,Hispanic,9,117,3
+2002,maryland,Hispanic,9,3968,168
+2002,massachusetts,Hispanic,9,9874,744
+2002,michigan,Hispanic,9,5837,416
+2002,minnesota,Hispanic,9,2478,155
+2002,mississippi,Hispanic,9,316,12
+2002,missouri,Hispanic,9,1533,68
+2002,montana,Hispanic,9,241,15
+2002,nebraska,Hispanic,9,2039,171
+2002,nevada,Hispanic,9,8932,631
+2002,new hampshire,Hispanic,9,362,18
+2002,new jersey,Hispanic,9,18141,605
+2002,new mexico,Hispanic,9,14623,878
+2002,new york,Hispanic,9,53490,2874
+2002,north carolina,Hispanic,9,5841,515
+2002,north dakota,Hispanic,9,104,7
+2002,ohio,Hispanic,9,3110,222
+2002,oklahoma,Hispanic,9,3219,286
+2002,oregon,Hispanic,9,4692,0
+2002,pennsylvania,Hispanic,9,8490,0
+2002,rhode island,Hispanic,9,2130,153
+2002,south carolina,Hispanic,9,1472,71
+2002,south dakota,Hispanic,9,123,9
+2002,tennessee,Hispanic,9,0,0
+2002,texas,Hispanic,9,157676,6254
+2002,utah,Hispanic,9,3399,138
+2002,vermont,Hispanic,9,60,0
+2002,virginia,Hispanic,9,5931,482
+2002,washington,Hispanic,9,9210,1112
+2002,west virginia,Hispanic,9,123,6
+2002,wisconsin,Hispanic,9,3952,209
+2002,wyoming,Hispanic,9,542,24
+2002,american samoa,Hispanic,9,0,0
+2002,guam,Hispanic,9,0,0
+2002,northern marianas,Hispanic,9,0,0
+2002,puerto rico,Hispanic,9,0,0
+2002,virgin islands,Hispanic,9,0,0
+2002,alabama,Black,10,18847,642
+2002,alaska,Black,10,417,53
+2002,arizona,Black,10,3225,304
+2002,arkansas,Black,10,7735,434
+2002,california,Black,10,40805,2202
+2002,colorado,Black,10,2987,119
+2002,connecticut,Black,10,5543,202
+2002,delaware,Black,10,2691,212
+2002,district of columbia,Black,10,0,0
+2002,florida,Black,10,42798,1750
+2002,georgia,Black,10,39811,2443
+2002,hawaii,Black,10,230,10
+2002,idaho,Black,10,85,4
+2002,illinois,Black,10,29276,3247
+2002,indiana,Black,10,8316,284
+2002,iowa,Black,10,1391,62
+2002,kansas,Black,10,3261,129
+2002,kentucky,Black,10,4862,222
+2002,louisiana,Black,10,21568,1939
+2002,maine,Black,10,210,3
+2002,maryland,Black,10,23994,1264
+2002,massachusetts,Black,10,6449,383
+2002,michigan,Black,10,23878,2343
+2002,minnesota,Black,10,4375,277
+2002,mississippi,Black,10,16524,788
+2002,missouri,Black,10,11300,619
+2002,montana,Black,10,67,5
+2002,nebraska,Black,10,1320,119
+2002,nevada,Black,10,2792,204
+2002,new hampshire,Black,10,195,12
+2002,new jersey,Black,10,17550,593
+2002,new mexico,Black,10,571,27
+2002,new york,Black,10,48833,4729
+2002,north carolina,Black,10,29152,1861
+2002,north dakota,Black,10,71,4
+2002,ohio,Black,10,20214,1154
+2002,oklahoma,Black,10,4781,319
+2002,oregon,Black,10,1103,0
+2002,pennsylvania,Black,10,22049,0
+2002,rhode island,Black,10,1031,58
+2002,south carolina,Black,10,19788,789
+2002,south dakota,Black,10,127,9
+2002,tennessee,Black,10,0,0
+2002,texas,Black,10,43768,2120
+2002,utah,Black,10,343,24
+2002,vermont,Black,10,70,0
+2002,virginia,Black,10,22678,1254
+2002,washington,Black,10,4165,388
+2002,west virginia,Black,10,914,42
+2002,wisconsin,Black,10,6299,497
+2002,wyoming,Black,10,65,4
+2002,american samoa,Black,10,0,0
+2002,guam,Black,10,0,0
+2002,northern marianas,Black,10,0,0
+2002,puerto rico,Black,10,0,0
+2002,virgin islands,Black,10,0,0
+2002,alabama,White,10,32103,1235
+2002,alaska,White,10,6334,402
+2002,arizona,White,10,37794,1872
+2002,arkansas,White,10,24805,897
+2002,california,White,10,175333,2403
+2002,colorado,White,10,39440,888
+2002,connecticut,White,10,30203,432
+2002,delaware,White,10,5372,196
+2002,district of columbia,White,10,0,0
+2002,florida,White,10,100158,2593
+2002,georgia,White,10,58837,3305
+2002,hawaii,White,10,2778,133
+2002,idaho,White,10,17252,552
+2002,illinois,White,10,95126,3475
+2002,indiana,White,10,61418,1185
+2002,iowa,White,10,34957,479
+2002,kansas,White,10,29946,522
+2002,kentucky,White,10,42313,1474
+2002,louisiana,White,10,25596,1368
+2002,maine,White,10,15282,380
+2002,maryland,White,10,35255,947
+2002,massachusetts,White,10,55141,1434
+2002,michigan,White,10,103098,3298
+2002,minnesota,White,10,57270,812
+2002,mississippi,White,10,16943,539
+2002,missouri,White,10,56297,1690
+2002,montana,White,10,10897,330
+2002,nebraska,White,10,18930,350
+2002,nevada,White,10,15221,605
+2002,new hampshire,White,10,15851,433
+2002,new jersey,White,10,60519,622
+2002,new mexico,White,10,9235,321
+2002,new york,White,10,122716,3100
+2002,north carolina,White,10,60025,2893
+2002,north dakota,White,10,7718,119
+2002,ohio,White,10,112935,1857
+2002,oklahoma,White,10,29389,1004
+2002,oregon,White,10,34780,0
+2002,pennsylvania,White,10,116066,0
+2002,rhode island,White,10,9119,309
+2002,south carolina,White,10,27705,988
+2002,south dakota,White,10,9074,177
+2002,tennessee,White,10,0,0
+2002,texas,White,10,132490,2711
+2002,utah,White,10,31069,512
+2002,vermont,White,10,0,0
+2002,virginia,White,10,56524,1112
+2002,washington,White,10,60883,2635
+2002,west virginia,White,10,20123,837
+2002,wisconsin,White,10,60405,222
+2002,wyoming,White,10,6416,201
+2002,american samoa,White,10,0,0
+2002,guam,White,10,0,0
+2002,northern marianas,White,10,0,0
+2002,puerto rico,White,10,0,0
+2002,virgin islands,White,10,0,0
+2002,alabama,Hispanic,10,657,36
+2002,alaska,Hispanic,10,343,28
+2002,arizona,Hispanic,10,22334,2653
+2002,arkansas,Hispanic,10,1386,95
+2002,california,Hispanic,10,196240,7606
+2002,colorado,Hispanic,10,11184,756
+2002,connecticut,Hispanic,10,5400,302
+2002,delaware,Hispanic,10,465,47
+2002,district of columbia,Hispanic,10,0,0
+2002,florida,Hispanic,10,36313,1265
+2002,georgia,Hispanic,10,4709,454
+2002,hawaii,Hispanic,10,638,32
+2002,idaho,Hispanic,10,1614,164
+2002,illinois,Hispanic,10,21317,1868
+2002,indiana,Hispanic,10,2591,110
+2002,iowa,Hispanic,10,1380,84
+2002,kansas,Hispanic,10,3231,170
+2002,kentucky,Hispanic,10,487,19
+2002,louisiana,Hispanic,10,774,59
+2002,maine,Hispanic,10,91,4
+2002,maryland,Hispanic,10,3281,147
+2002,massachusetts,Hispanic,10,7235,574
+2002,michigan,Hispanic,10,4362,289
+2002,minnesota,Hispanic,10,2138,283
+2002,mississippi,Hispanic,10,235,18
+2002,missouri,Hispanic,10,1258,62
+2002,montana,Hispanic,10,222,17
+2002,nebraska,Hispanic,10,1546,140
+2002,nevada,Hispanic,10,6497,538
+2002,new hampshire,Hispanic,10,318,21
+2002,new jersey,Hispanic,10,15993,702
+2002,new mexico,Hispanic,10,12775,722
+2002,new york,Hispanic,10,42183,4301
+2002,north carolina,Hispanic,10,3966,399
+2002,north dakota,Hispanic,10,89,4
+2002,ohio,Hispanic,10,2228,138
+2002,oklahoma,Hispanic,10,2587,236
+2002,oregon,Hispanic,10,4224,0
+2002,pennsylvania,Hispanic,10,6821,0
+2002,rhode island,Hispanic,10,1611,152
+2002,south carolina,Hispanic,10,924,40
+2002,south dakota,Hispanic,10,142,11
+2002,tennessee,Hispanic,10,0,0
+2002,texas,Hispanic,10,114260,6464
+2002,utah,Hispanic,10,3201,200
+2002,vermont,Hispanic,10,0,0
+2002,virginia,Hispanic,10,4790,303
+2002,washington,Hispanic,10,7566,808
+2002,west virginia,Hispanic,10,72,3
+2002,wisconsin,Hispanic,10,3052,149
+2002,wyoming,Hispanic,10,519,40
+2002,american samoa,Hispanic,10,0,0
+2002,guam,Hispanic,10,0,0
+2002,northern marianas,Hispanic,10,0,0
+2002,puerto rico,Hispanic,10,0,0
+2002,virgin islands,Hispanic,10,0,0
+2002,alabama,Black,11,16022,659
+2002,alaska,Black,11,409,40
+2002,arizona,Black,11,2945,305
+2002,arkansas,Black,11,6875,471
+2002,california,Black,11,35133,1984
+2002,colorado,Black,11,2641,119
+2002,connecticut,Black,11,4654,156
+2002,delaware,Black,11,2059,124
+2002,district of columbia,Black,11,0,0
+2002,florida,Black,11,35681,1329
+2002,georgia,Black,11,33483,2061
+2002,hawaii,Black,11,220,11
+2002,idaho,Black,11,84,5
+2002,illinois,Black,11,22991,2374
+2002,indiana,Black,11,6715,251
+2002,iowa,Black,11,1136,77
+2002,kansas,Black,11,2787,130
+2002,kentucky,Black,11,4007,171
+2002,louisiana,Black,11,18323,1589
+2002,maine,Black,11,211,10
+2002,maryland,Black,11,20044,999
+2002,massachusetts,Black,11,5552,291
+2002,michigan,Black,11,17714,1466
+2002,minnesota,Black,11,4387,472
+2002,mississippi,Black,11,14092,605
+2002,missouri,Black,11,8853,549
+2002,montana,Black,11,43,1
+2002,nebraska,Black,11,1142,101
+2002,nevada,Black,11,1949,170
+2002,new hampshire,Black,11,160,10
+2002,new jersey,Black,11,14369,447
+2002,new mexico,Black,11,516,26
+2002,new york,Black,11,29044,4202
+2002,north carolina,Black,11,23895,1433
+2002,north dakota,Black,11,66,2
+2002,ohio,Black,11,16975,1272
+2002,oklahoma,Black,11,4051,256
+2002,oregon,Black,11,1066,0
+2002,pennsylvania,Black,11,16750,0
+2002,rhode island,Black,11,804,57
+2002,south carolina,Black,11,15033,482
+2002,south dakota,Black,11,143,11
+2002,tennessee,Black,11,0,0
+2002,texas,Black,11,36490,1648
+2002,utah,Black,11,333,34
+2002,vermont,Black,11,0,0
+2002,virginia,Black,11,18376,724
+2002,washington,Black,11,3689,358
+2002,west virginia,Black,11,773,43
+2002,wisconsin,Black,11,4741,434
+2002,wyoming,Black,11,58,5
+2002,american samoa,Black,11,0,0
+2002,guam,Black,11,0,0
+2002,northern marianas,Black,11,0,0
+2002,puerto rico,Black,11,0,0
+2002,virgin islands,Black,11,0,0
+2002,alabama,White,11,29096,1242
+2002,alaska,White,11,5858,347
+2002,arizona,White,11,36607,2137
+2002,arkansas,White,11,23311,1347
+2002,california,White,11,169352,3093
+2002,colorado,White,11,37581,1159
+2002,connecticut,White,11,28503,532
+2002,delaware,White,11,5118,193
+2002,district of columbia,White,11,0,0
+2002,florida,White,11,88256,2189
+2002,georgia,White,11,51520,3092
+2002,hawaii,White,11,2494,158
+2002,idaho,White,11,16204,655
+2002,illinois,White,11,92430,4196
+2002,indiana,White,11,58584,1406
+2002,iowa,White,11,35497,813
+2002,kansas,White,11,28971,753
+2002,kentucky,White,11,37815,1395
+2002,louisiana,White,11,23800,1213
+2002,maine,White,11,14858,526
+2002,maryland,White,11,32856,989
+2002,massachusetts,White,11,51908,1422
+2002,michigan,White,11,96705,3272
+2002,minnesota,White,11,58007,1615
+2002,mississippi,White,11,14892,543
+2002,missouri,White,11,53368,2080
+2002,montana,White,11,10571,422
+2002,nebraska,White,11,18913,492
+2002,nevada,White,11,12839,484
+2002,new hampshire,White,11,14672,647
+2002,new jersey,White,11,58396,887
+2002,new mexico,White,11,8467,313
+2002,new york,White,11,113043,4004
+2002,north carolina,White,11,54800,2930
+2002,north dakota,White,11,7929,157
+2002,ohio,White,11,110666,2867
+2002,oklahoma,White,11,28150,1116
+2002,oregon,White,11,33638,0
+2002,pennsylvania,White,11,112174,0
+2002,rhode island,White,11,8257,296
+2002,south carolina,White,11,23069,693
+2002,south dakota,White,11,9066,271
+2002,tennessee,White,11,0,0
+2002,texas,White,11,125804,2952
+2002,utah,White,11,31689,872
+2002,vermont,White,11,0,0
+2002,virginia,White,11,52086,1063
+2002,washington,White,11,58801,3104
+2002,west virginia,White,11,18683,742
+2002,wisconsin,White,11,59883,476
+2002,wyoming,White,11,6243,344
+2002,american samoa,White,11,0,0
+2002,guam,White,11,0,0
+2002,northern marianas,White,11,0,0
+2002,puerto rico,White,11,0,0
+2002,virgin islands,White,11,0,0
+2002,alabama,Hispanic,11,475,28
+2002,alaska,Hispanic,11,259,44
+2002,arizona,Hispanic,11,19340,2283
+2002,arkansas,Hispanic,11,1062,99
+2002,california,Hispanic,11,167347,7413
+2002,colorado,Hispanic,11,9081,687
+2002,connecticut,Hispanic,11,4211,224
+2002,delaware,Hispanic,11,319,22
+2002,district of columbia,Hispanic,11,0,0
+2002,florida,Hispanic,11,30028,1033
+2002,georgia,Hispanic,11,3325,325
+2002,hawaii,Hispanic,11,609,33
+2002,idaho,Hispanic,11,1323,151
+2002,illinois,Hispanic,11,17344,1552
+2002,indiana,Hispanic,11,2090,88
+2002,iowa,Hispanic,11,1195,84
+2002,kansas,Hispanic,11,2561,152
+2002,kentucky,Hispanic,11,409,14
+2002,louisiana,Hispanic,11,688,43
+2002,maine,Hispanic,11,80,2
+2002,maryland,Hispanic,11,2642,129
+2002,massachusetts,Hispanic,11,5765,368
+2002,michigan,Hispanic,11,3337,201
+2002,minnesota,Hispanic,11,2058,373
+2002,mississippi,Hispanic,11,157,9
+2002,missouri,Hispanic,11,1018,58
+2002,montana,Hispanic,11,180,7
+2002,nebraska,Hispanic,11,1225,133
+2002,nevada,Hispanic,11,4250,387
+2002,new hampshire,Hispanic,11,281,35
+2002,new jersey,Hispanic,11,12704,491
+2002,new mexico,Hispanic,11,10187,604
+2002,new york,Hispanic,11,23995,3591
+2002,north carolina,Hispanic,11,2731,211
+2002,north dakota,Hispanic,11,87,4
+2002,ohio,Hispanic,11,2001,142
+2002,oklahoma,Hispanic,11,2006,180
+2002,oregon,Hispanic,11,3741,0
+2002,pennsylvania,Hispanic,11,4753,0
+2002,rhode island,Hispanic,11,1230,105
+2002,south carolina,Hispanic,11,586,22
+2002,south dakota,Hispanic,11,106,13
+2002,tennessee,Hispanic,11,0,0
+2002,texas,Hispanic,11,94168,4927
+2002,utah,Hispanic,11,2877,263
+2002,vermont,Hispanic,11,48,0
+2002,virginia,Hispanic,11,4105,323
+2002,washington,Hispanic,11,6281,648
+2002,west virginia,Hispanic,11,83,3
+2002,wisconsin,Hispanic,11,2474,142
+2002,wyoming,Hispanic,11,403,57
+2002,american samoa,Hispanic,11,0,0
+2002,guam,Hispanic,11,0,0
+2002,northern marianas,Hispanic,11,0,0
+2002,puerto rico,Hispanic,11,0,0
+2002,virgin islands,Hispanic,11,0,0
+2002,alabama,Black,12,14583,551
+2002,alaska,Black,12,373,35
+2002,arizona,Black,12,2800,447
+2002,arkansas,Black,12,6375,402
+2002,california,Black,12,30516,2336
+2002,colorado,Black,12,2099,182
+2002,connecticut,Black,12,4500,120
+2002,delaware,Black,12,1865,94
+2002,district of columbia,Black,12,0,0
+2002,florida,Black,12,30640,1954
+2002,georgia,Black,12,27145,1914
+2002,hawaii,Black,12,189,15
+2002,idaho,Black,12,81,3
+2002,illinois,Black,12,24462,1638
+2002,indiana,Black,12,5843,254
+2002,iowa,Black,12,974,52
+2002,kansas,Black,12,2481,127
+2002,kentucky,Black,12,3391,156
+2002,louisiana,Black,12,18118,2280
+2002,maine,Black,12,155,5
+2002,maryland,Black,12,18344,831
+2002,massachusetts,Black,12,4994,285
+2002,michigan,Black,12,13860,1347
+2002,minnesota,Black,12,4660,981
+2002,mississippi,Black,12,12828,623
+2002,missouri,Black,12,8099,492
+2002,montana,Black,12,49,3
+2002,nebraska,Black,12,1093,84
+2002,nevada,Black,12,1650,270
+2002,new hampshire,Black,12,127,19
+2002,new jersey,Black,12,13265,360
+2002,new mexico,Black,12,401,13
+2002,new york,Black,12,24502,3504
+2002,north carolina,Black,12,19706,968
+2002,north dakota,Black,12,57,2
+2002,ohio,Black,12,14753,920
+2002,oklahoma,Black,12,3418,170
+2002,oregon,Black,12,939,0
+2002,pennsylvania,Black,12,13875,0
+2002,rhode island,Black,12,740,35
+2002,south carolina,Black,12,14216,360
+2002,south dakota,Black,12,113,8
+2002,tennessee,Black,12,0,0
+2002,texas,Black,12,31858,1910
+2002,utah,Black,12,289,48
+2002,vermont,Black,12,62,0
+2002,virginia,Black,12,17804,798
+2002,washington,Black,12,3195,448
+2002,west virginia,Black,12,717,33
+2002,wisconsin,Black,12,3884,284
+2002,wyoming,Black,12,70,5
+2002,american samoa,Black,12,0,0
+2002,guam,Black,12,0,0
+2002,northern marianas,Black,12,0,0
+2002,puerto rico,Black,12,0,0
+2002,virgin islands,Black,12,0,0
+2002,alabama,White,12,26644,918
+2002,alaska,White,12,5799,230
+2002,arizona,White,12,34462,2446
+2002,arkansas,White,12,21679,1285
+2002,california,White,12,161085,5191
+2002,colorado,White,12,35228,1172
+2002,connecticut,White,12,26486,442
+2002,delaware,White,12,4785,166
+2002,district of columbia,White,12,0,0
+2002,florida,White,12,78248,2313
+2002,georgia,White,12,46051,2759
+2002,hawaii,White,12,2058,168
+2002,idaho,White,12,16020,691
+2002,illinois,White,12,91991,4324
+2002,indiana,White,12,55563,1517
+2002,iowa,White,12,34696,854
+2002,kansas,White,12,28492,773
+2002,kentucky,White,12,35083,1184
+2002,louisiana,White,12,22823,1082
+2002,maine,White,12,13698,467
+2002,maryland,White,12,31367,779
+2002,massachusetts,White,12,48018,1379
+2002,michigan,White,12,92092,3053
+2002,minnesota,White,12,60841,3374
+2002,mississippi,White,12,13456,468
+2002,missouri,White,12,50553,1681
+2002,montana,White,12,10330,408
+2002,nebraska,White,12,19267,626
+2002,nevada,White,12,11464,928
+2002,new hampshire,White,12,13725,927
+2002,new jersey,White,12,54939,876
+2002,new mexico,White,12,7672,262
+2002,new york,White,12,108014,4258
+2002,north carolina,White,12,49285,2060
+2002,north dakota,White,12,8041,188
+2002,ohio,White,12,105859,3793
+2002,oklahoma,White,12,26438,842
+2002,oregon,White,12,31762,0
+2002,pennsylvania,White,12,106557,0
+2002,rhode island,White,12,7762,261
+2002,south carolina,White,12,22166,543
+2002,south dakota,White,12,8973,316
+2002,tennessee,White,12,0,0
+2002,texas,White,12,117173,3324
+2002,utah,White,12,31303,2153
+2002,vermont,White,12,0,0
+2002,virginia,White,12,50637,1377
+2002,washington,White,12,55969,3804
+2002,west virginia,White,12,17489,600
+2002,wisconsin,White,12,59535,1670
+2002,wyoming,White,12,6029,369
+2002,american samoa,White,12,0,0
+2002,guam,White,12,0,0
+2002,northern marianas,White,12,0,0
+2002,puerto rico,White,12,0,0
+2002,virgin islands,White,12,0,0
+2002,alabama,Hispanic,12,394,16
+2002,alaska,Hispanic,12,272,33
+2002,arizona,Hispanic,12,17885,2756
+2002,arkansas,Hispanic,12,832,69
+2002,california,Hispanic,12,138363,9363
+2002,colorado,Hispanic,12,7334,657
+2002,connecticut,Hispanic,12,3886,152
+2002,delaware,Hispanic,12,292,17
+2002,district of columbia,Hispanic,12,0,0
+2002,florida,Hispanic,12,25050,1195
+2002,georgia,Hispanic,12,2641,291
+2002,hawaii,Hispanic,12,484,55
+2002,idaho,Hispanic,12,1030,103
+2002,illinois,Hispanic,12,16158,1161
+2002,indiana,Hispanic,12,1766,74
+2002,iowa,Hispanic,12,842,61
+2002,kansas,Hispanic,12,2445,129
+2002,kentucky,Hispanic,12,325,11
+2002,louisiana,Hispanic,12,604,47
+2002,maine,Hispanic,12,74,1
+2002,maryland,Hispanic,12,2279,71
+2002,massachusetts,Hispanic,12,4827,354
+2002,michigan,Hispanic,12,2651,169
+2002,minnesota,Hispanic,12,1969,620
+2002,mississippi,Hispanic,12,169,9
+2002,missouri,Hispanic,12,923,55
+2002,montana,Hispanic,12,180,11
+2002,nebraska,Hispanic,12,995,95
+2002,nevada,Hispanic,12,3376,508
+2002,new hampshire,Hispanic,12,232,46
+2002,new jersey,Hispanic,12,11741,404
+2002,new mexico,Hispanic,12,8433,371
+2002,new york,Hispanic,12,19548,3160
+2002,north carolina,Hispanic,12,2070,103
+2002,north dakota,Hispanic,12,81,4
+2002,ohio,Hispanic,12,1798,110
+2002,oklahoma,Hispanic,12,1662,139
+2002,oregon,Hispanic,12,3261,0
+2002,pennsylvania,Hispanic,12,3844,0
+2002,rhode island,Hispanic,12,984,58
+2002,south carolina,Hispanic,12,523,12
+2002,south dakota,Hispanic,12,115,9
+2002,tennessee,Hispanic,12,0,0
+2002,texas,Hispanic,12,80989,5434
+2002,utah,Hispanic,12,2573,559
+2002,vermont,Hispanic,12,29,0
+2002,virginia,Hispanic,12,3209,177
+2002,washington,Hispanic,12,5604,738
+2002,west virginia,Hispanic,12,67,1
+2002,wisconsin,Hispanic,12,2199,135
+2002,wyoming,Hispanic,12,348,35
+2002,american samoa,Hispanic,12,0,0
+2002,guam,Hispanic,12,0,0
+2002,northern marianas,Hispanic,12,0,0
+2002,puerto rico,Hispanic,12,0,0
+2002,virgin islands,Hispanic,12,0,0
+2003,alabama,Black,7,23121,16
+2003,alaska,Black,7,540,8
+2003,arizona,Black,7,3760,125
+2003,arkansas,Black,7,8706,119
+2003,california,Black,7,42650,959
+2003,colorado,Black,7,3496,24
+2003,connecticut,Black,7,0,0
+2003,delaware,Black,7,3259,8
+2003,district of columbia,Black,7,0,0
+2003,florida,Black,7,51284,770
+2003,georgia,Black,7,48985,343
+2003,hawaii,Black,7,314,0
+2003,idaho,Black,7,188,0
+2003,illinois,Black,7,34799,408
+2003,indiana,Black,7,10715,55
+2003,iowa,Black,7,1694,5
+2003,kansas,Black,7,3407,4
+2003,kentucky,Black,7,5573,3
+2003,louisiana,Black,7,28682,632
+2003,maine,Black,7,245,1
+2003,maryland,Black,7,27659,76
+2003,massachusetts,Black,7,7176,23
+2003,michigan,Black,7,31163,2116
+2003,minnesota,Black,7,0,0
+2003,mississippi,Black,7,21867,143
+2003,missouri,Black,7,14218,63
+2003,montana,Black,7,85,0
+2003,nebraska,Black,7,1576,15
+2003,nevada,Black,7,3549,108
+2003,new hampshire,Black,7,0,0
+2003,new jersey,Black,7,0,0
+2003,new mexico,Black,7,650,4
+2003,new york,Black,7,47406,60
+2003,north carolina,Black,7,0,0
+2003,north dakota,Black,7,0,0
+2003,ohio,Black,7,25900,191
+2003,oklahoma,Black,7,5237,75
+2003,oregon,Black,7,0,0
+2003,pennsylvania,Black,7,24179,0
+2003,rhode island,Black,7,0,0
+2003,south carolina,Black,7,24210,82
+2003,south dakota,Black,7,134,0
+2003,tennessee,Black,7,0,0
+2003,texas,Black,7,48262,120
+2003,utah,Black,7,411,7
+2003,vermont,Black,7,98,19
+2003,virginia,Black,7,27183,330
+2003,washington,Black,7,0,0
+2003,west virginia,Black,7,1028,3
+2003,wisconsin,Black,7,0,0
+2003,wyoming,Black,7,109,1
+2003,american samoa,Black,7,0,0
+2003,guam,Black,7,0,0
+2003,northern marianas,Black,7,0,0
+2003,puerto rico,Black,7,0,0
+2003,virgin islands,Black,7,0,0
+2003,alabama,White,7,36498,38
+2003,alaska,White,7,6558,31
+2003,arizona,White,7,38712,745
+2003,arkansas,White,7,0,0
+2003,california,White,7,167935,756
+2003,colorado,White,7,38709,151
+2003,connecticut,White,7,0,0
+2003,delaware,White,7,5482,5
+2003,district of columbia,White,7,0,0
+2003,florida,White,7,107372,801
+2003,georgia,White,7,62972,198
+2003,hawaii,White,7,2781,16
+2003,idaho,White,7,17003,10
+2003,illinois,White,7,94914,971
+2003,indiana,White,7,68278,82
+2003,iowa,White,7,33939,4
+2003,kansas,White,7,27885,13
+2003,kentucky,White,7,45017,25
+2003,louisiana,White,7,28251,216
+2003,maine,White,7,16225,4
+2003,maryland,White,7,35252,19
+2003,massachusetts,White,7,57809,25
+2003,michigan,White,7,101184,581
+2003,minnesota,White,7,0,0
+2003,mississippi,White,7,19628,55
+2003,missouri,White,7,57056,35
+2003,montana,White,7,10198,6
+2003,nebraska,White,7,17775,15
+2003,nevada,White,7,16347,288
+2003,new hampshire,White,7,0,0
+2003,new jersey,White,7,0,0
+2003,new mexico,White,7,8471,63
+2003,new york,White,7,125072,37
+2003,north carolina,White,7,0,0
+2003,north dakota,White,7,0,0
+2003,ohio,White,7,115106,187
+2003,oklahoma,White,7,29249,125
+2003,oregon,White,7,0,0
+2003,pennsylvania,White,7,115877,0
+2003,rhode island,White,7,0,0
+2003,south carolina,White,7,30705,28
+2003,south dakota,White,7,8259,0
+2003,tennessee,White,7,0,0
+2003,texas,White,7,132318,119
+2003,utah,White,7,31147,263
+2003,vermont,White,7,7528,4
+2003,virginia,White,7,0,0
+2003,washington,White,7,0,0
+2003,west virginia,White,7,21577,23
+2003,wisconsin,White,7,0,0
+2003,wyoming,White,7,6000,16
+2003,american samoa,White,7,0,0
+2003,guam,White,7,0,0
+2003,northern marianas,White,7,0,0
+2003,puerto rico,White,7,0,0
+2003,virgin islands,White,7,0,0
+2003,alabama,Hispanic,7,1102,0
+2003,alaska,Hispanic,7,408,1
+2003,arizona,Hispanic,7,28674,872
+2003,arkansas,Hispanic,7,0,0
+2003,california,Hispanic,7,228659,1919
+2003,colorado,Hispanic,7,14714,113
+2003,connecticut,Hispanic,7,0,0
+2003,delaware,Hispanic,7,729,2
+2003,district of columbia,Hispanic,7,0,0
+2003,florida,Hispanic,7,45674,607
+2003,georgia,Hispanic,7,7657,75
+2003,hawaii,Hispanic,7,643,1
+2003,idaho,Hispanic,7,2248,3
+2003,illinois,Hispanic,7,27429,172
+2003,indiana,Hispanic,7,3633,25
+2003,iowa,Hispanic,7,1740,4
+2003,kansas,Hispanic,7,3912,6
+2003,kentucky,Hispanic,7,695,1
+2003,louisiana,Hispanic,7,1021,14
+2003,maine,Hispanic,7,99,0
+2003,maryland,Hispanic,7,4106,1
+2003,massachusetts,Hispanic,7,9172,32
+2003,michigan,Hispanic,7,5290,157
+2003,minnesota,Hispanic,7,0,0
+2003,mississippi,Hispanic,7,431,3
+2003,missouri,Hispanic,7,1733,7
+2003,montana,Hispanic,7,245,1
+2003,nebraska,Hispanic,7,2165,20
+2003,nevada,Hispanic,7,9434,190
+2003,new hampshire,Hispanic,7,0,0
+2003,new jersey,Hispanic,7,0,0
+2003,new mexico,Hispanic,7,13593,83
+2003,new york,Hispanic,7,43974,135
+2003,north carolina,Hispanic,7,0,0
+2003,north dakota,Hispanic,7,0,0
+2003,ohio,Hispanic,7,2865,31
+2003,oklahoma,Hispanic,7,3366,44
+2003,oregon,Hispanic,7,0,0
+2003,pennsylvania,Hispanic,7,8321,0
+2003,rhode island,Hispanic,7,0,0
+2003,south carolina,Hispanic,7,1634,8
+2003,south dakota,Hispanic,7,177,0
+2003,tennessee,Hispanic,7,0,0
+2003,texas,Hispanic,7,138972,306
+2003,utah,Hispanic,7,4002,71
+2003,vermont,Hispanic,7,63,20
+2003,virginia,Hispanic,7,0,0
+2003,washington,Hispanic,7,0,0
+2003,west virginia,Hispanic,7,127,0
+2003,wisconsin,Hispanic,7,0,0
+2003,wyoming,Hispanic,7,549,4
+2003,american samoa,Hispanic,7,0,0
+2003,guam,Hispanic,7,0,0
+2003,northern marianas,Hispanic,7,0,0
+2003,puerto rico,Hispanic,7,0,0
+2003,virgin islands,Hispanic,7,0,0
+2003,alabama,Black,8,21733,48
+2003,alaska,Black,8,508,11
+2003,arizona,Black,8,3803,127
+2003,arkansas,Black,8,0,0
+2003,california,Black,8,42968,950
+2003,colorado,Black,8,3519,23
+2003,connecticut,Black,8,0,0
+2003,delaware,Black,8,3370,51
+2003,district of columbia,Black,8,0,0
+2003,florida,Black,8,49036,792
+2003,georgia,Black,8,47121,477
+2003,hawaii,Black,8,315,4
+2003,idaho,Black,8,148,0
+2003,illinois,Black,8,32600,549
+2003,indiana,Black,8,10026,73
+2003,iowa,Black,8,1585,5
+2003,kansas,Black,8,3261,7
+2003,kentucky,Black,8,5147,7
+2003,louisiana,Black,8,29986,1586
+2003,maine,Black,8,289,0
+2003,maryland,Black,8,25735,101
+2003,massachusetts,Black,8,6968,27
+2003,michigan,Black,8,29409,2903
+2003,minnesota,Black,8,0,0
+2003,mississippi,Black,8,19307,147
+2003,missouri,Black,8,12895,144
+2003,montana,Black,8,76,1
+2003,nebraska,Black,8,1607,9
+2003,nevada,Black,8,3463,123
+2003,new hampshire,Black,8,0,0
+2003,new jersey,Black,8,0,0
+2003,new mexico,Black,8,596,9
+2003,new york,Black,8,45020,155
+2003,north carolina,Black,8,34589,222
+2003,north dakota,Black,8,0,0
+2003,ohio,Black,8,24755,250
+2003,oklahoma,Black,8,5208,76
+2003,oregon,Black,8,0,0
+2003,pennsylvania,Black,8,22862,0
+2003,rhode island,Black,8,0,0
+2003,south carolina,Black,8,21900,89
+2003,south dakota,Black,8,137,0
+2003,tennessee,Black,8,0,0
+2003,texas,Black,8,46864,366
+2003,utah,Black,8,388,10
+2003,vermont,Black,8,92,12
+2003,virginia,Black,8,25610,369
+2003,washington,Black,8,0,0
+2003,west virginia,Black,8,943,6
+2003,wisconsin,Black,8,0,0
+2003,wyoming,Black,8,86,0
+2003,american samoa,Black,8,0,0
+2003,guam,Black,8,0,0
+2003,northern marianas,Black,8,0,0
+2003,puerto rico,Black,8,0,0
+2003,virgin islands,Black,8,0,0
+2003,alabama,White,8,35805,134
+2003,alaska,White,8,6669,70
+2003,arizona,White,8,38626,639
+2003,arkansas,White,8,0,0
+2003,california,White,8,174296,710
+2003,colorado,White,8,38965,264
+2003,connecticut,White,8,0,0
+2003,delaware,White,8,5830,116
+2003,district of columbia,White,8,0,0
+2003,florida,White,8,107179,855
+2003,georgia,White,8,63704,309
+2003,hawaii,White,8,2803,34
+2003,idaho,White,8,17038,27
+2003,illinois,White,8,96727,1013
+2003,indiana,White,8,67270,163
+2003,iowa,White,8,34677,10
+2003,kansas,White,8,28991,15
+2003,kentucky,White,8,44352,55
+2003,louisiana,White,8,27957,468
+2003,maine,White,8,16628,14
+2003,maryland,White,8,36216,35
+2003,massachusetts,White,8,59096,72
+2003,michigan,White,8,103167,784
+2003,minnesota,White,8,0,0
+2003,mississippi,White,8,19196,72
+2003,missouri,White,8,57131,104
+2003,montana,White,8,10555,12
+2003,nebraska,White,8,18509,22
+2003,nevada,White,8,16403,327
+2003,new hampshire,White,8,0,0
+2003,new jersey,White,8,0,0
+2003,new mexico,White,8,8521,88
+2003,new york,White,8,127216,92
+2003,north carolina,White,8,64730,247
+2003,north dakota,White,8,0,0
+2003,ohio,White,8,115207,312
+2003,oklahoma,White,8,29596,191
+2003,oregon,White,8,0,0
+2003,pennsylvania,White,8,117118,0
+2003,rhode island,White,8,0,0
+2003,south carolina,White,8,29025,30
+2003,south dakota,White,8,8654,1
+2003,tennessee,White,8,0,0
+2003,texas,White,8,134765,599
+2003,utah,White,8,31169,130
+2003,vermont,White,8,7786,16
+2003,virginia,White,8,0,0
+2003,washington,White,8,0,0
+2003,west virginia,White,8,21048,72
+2003,wisconsin,White,8,0,0
+2003,wyoming,White,8,6188,14
+2003,american samoa,White,8,0,0
+2003,guam,White,8,0,0
+2003,northern marianas,White,8,0,0
+2003,puerto rico,White,8,0,0
+2003,virgin islands,White,8,0,0
+2003,alabama,Hispanic,8,1024,1
+2003,alaska,Hispanic,8,416,4
+2003,arizona,Hispanic,8,27433,873
+2003,arkansas,Hispanic,8,772,8
+2003,california,Hispanic,8,221203,2000
+2003,colorado,Hispanic,8,14049,205
+2003,connecticut,Hispanic,8,0,0
+2003,delaware,Hispanic,8,768,24
+2003,district of columbia,Hispanic,8,0,0
+2003,florida,Hispanic,8,44514,747
+2003,georgia,Hispanic,8,6894,100
+2003,hawaii,Hispanic,8,620,7
+2003,idaho,Hispanic,8,2300,9
+2003,illinois,Hispanic,8,25142,316
+2003,indiana,Hispanic,8,3321,21
+2003,iowa,Hispanic,8,1574,7
+2003,kansas,Hispanic,8,3639,7
+2003,kentucky,Hispanic,8,644,4
+2003,louisiana,Hispanic,8,946,26
+2003,maine,Hispanic,8,121,0
+2003,maryland,Hispanic,8,4024,2
+2003,massachusetts,Hispanic,8,8986,58
+2003,michigan,Hispanic,8,4912,239
+2003,minnesota,Hispanic,8,0,0
+2003,mississippi,Hispanic,8,412,1
+2003,missouri,Hispanic,8,1631,17
+2003,montana,Hispanic,8,253,0
+2003,nebraska,Hispanic,8,1919,10
+2003,nevada,Hispanic,8,8964,217
+2003,new hampshire,Hispanic,8,0,0
+2003,new jersey,Hispanic,8,0,0
+2003,new mexico,Hispanic,8,13269,160
+2003,new york,Hispanic,8,41977,154
+2003,north carolina,Hispanic,8,5777,70
+2003,north dakota,Hispanic,8,0,0
+2003,ohio,Hispanic,8,2852,37
+2003,oklahoma,Hispanic,8,3163,86
+2003,oregon,Hispanic,8,0,0
+2003,pennsylvania,Hispanic,8,7784,0
+2003,rhode island,Hispanic,8,0,0
+2003,south carolina,Hispanic,8,1471,7
+2003,south dakota,Hispanic,8,166,0
+2003,tennessee,Hispanic,8,0,0
+2003,texas,Hispanic,8,132627,1273
+2003,utah,Hispanic,8,3890,70
+2003,vermont,Hispanic,8,67,6
+2003,virginia,Hispanic,8,5405,38
+2003,washington,Hispanic,8,0,0
+2003,west virginia,Hispanic,8,115,2
+2003,wisconsin,Hispanic,8,0,0
+2003,wyoming,Hispanic,8,563,17
+2003,american samoa,Hispanic,8,0,0
+2003,guam,Hispanic,8,0,0
+2003,northern marianas,Hispanic,8,0,0
+2003,puerto rico,Hispanic,8,0,0
+2003,virgin islands,Hispanic,8,0,0
+2003,alabama,Black,9,23336,540
+2003,alaska,Black,9,478,37
+2003,arizona,Black,9,4129,240
+2003,arkansas,Black,9,8713,443
+2003,california,Black,9,47483,2282
+2003,colorado,Black,9,3976,215
+2003,connecticut,Black,9,7373,165
+2003,delaware,Black,9,3550,286
+2003,district of columbia,Black,9,0,0
+2003,florida,Black,9,66639,2520
+2003,georgia,Black,9,54776,2983
+2003,hawaii,Black,9,314,15
+2003,idaho,Black,9,150,4
+2003,illinois,Black,9,39273,3823
+2003,indiana,Black,9,11205,276
+2003,iowa,Black,9,0,0
+2003,kansas,Black,9,3702,83
+2003,kentucky,Black,9,5999,172
+2003,louisiana,Black,9,26344,2897
+2003,maine,Black,9,280,3
+2003,maryland,Black,9,31676,2073
+2003,massachusetts,Black,9,8366,392
+2003,michigan,Black,9,36278,5061
+2003,minnesota,Black,9,5203,147
+2003,mississippi,Black,9,20544,685
+2003,missouri,Black,9,14016,639
+2003,montana,Black,9,79,4
+2003,nebraska,Black,9,2089,134
+2003,nevada,Black,9,3982,207
+2003,new hampshire,Black,9,233,5
+2003,new jersey,Black,9,21592,686
+2003,new mexico,Black,9,711,29
+2003,new york,Black,9,62754,2774
+2003,north carolina,Black,9,40790,2589
+2003,north dakota,Black,9,83,0
+2003,ohio,Black,9,30030,1659
+2003,oklahoma,Black,9,5579,325
+2003,oregon,Black,9,0,0
+2003,pennsylvania,Black,9,26964,0
+2003,rhode island,Black,9,1264,49
+2003,south carolina,Black,9,29621,1192
+2003,south dakota,Black,9,117,3
+2003,tennessee,Black,9,0,0
+2003,texas,Black,9,57391,1779
+2003,utah,Black,9,363,10
+2003,vermont,Black,9,113,7
+2003,virginia,Black,9,31011,1332
+2003,washington,Black,9,4944,400
+2003,west virginia,Black,9,1062,50
+2003,wisconsin,Black,9,0,0
+2003,wyoming,Black,9,104,5
+2003,american samoa,Black,9,0,0
+2003,guam,Black,9,0,0
+2003,northern marianas,Black,9,0,0
+2003,puerto rico,Black,9,0,0
+2003,virgin islands,Black,9,0,0
+2003,alabama,White,9,37177,1014
+2003,alaska,White,9,6932,301
+2003,arizona,White,9,44108,1224
+2003,arkansas,White,9,26438,549
+2003,california,White,9,179280,2150
+2003,colorado,White,9,41175,920
+2003,connecticut,White,9,0,0
+2003,delaware,White,9,6439,375
+2003,district of columbia,White,9,0,0
+2003,florida,White,9,127415,3256
+2003,georgia,White,9,69244,2725
+2003,hawaii,White,9,3152,113
+2003,idaho,White,9,17796,287
+2003,illinois,White,9,101268,2604
+2003,indiana,White,9,69457,805
+2003,iowa,White,9,0,0
+2003,kansas,White,9,29875,201
+2003,kentucky,White,9,47956,1189
+2003,louisiana,White,9,29945,1765
+2003,maine,White,9,16193,231
+2003,maryland,White,9,39104,951
+2003,massachusetts,White,9,60749,961
+2003,michigan,White,9,109356,2408
+2003,minnesota,White,9,0,0
+2003,mississippi,White,9,19350,357
+2003,missouri,White,9,60075,996
+2003,montana,White,9,10939,165
+2003,nebraska,White,9,19282,164
+2003,nevada,White,9,17999,609
+2003,new hampshire,White,9,17426,209
+2003,new jersey,White,9,0,0
+2003,new mexico,White,9,9534,290
+2003,new york,White,9,131443,2060
+2003,north carolina,White,9,70684,2936
+2003,north dakota,White,9,7732,22
+2003,ohio,White,9,123192,1862
+2003,oklahoma,White,9,30917,863
+2003,oregon,White,9,0,0
+2003,pennsylvania,White,9,122854,0
+2003,rhode island,White,9,0,0
+2003,south carolina,White,9,35464,1097
+2003,south dakota,White,9,8765,116
+2003,tennessee,White,9,0,0
+2003,texas,White,9,148148,2149
+2003,utah,White,9,31054,197
+2003,vermont,White,9,8044,104
+2003,virginia,White,9,63934,951
+2003,washington,White,9,64706,2468
+2003,west virginia,White,9,22418,808
+2003,wisconsin,White,9,0,0
+2003,wyoming,White,9,6311,96
+2003,american samoa,White,9,0,0
+2003,guam,White,9,0,0
+2003,northern marianas,White,9,0,0
+2003,puerto rico,White,9,0,0
+2003,virgin islands,White,9,0,0
+2003,alabama,Hispanic,9,1046,31
+2003,alaska,Hispanic,9,396,20
+2003,arizona,Hispanic,9,29015,2345
+2003,arkansas,Hispanic,9,1600,55
+2003,california,Hispanic,9,235992,6719
+2003,colorado,Hispanic,9,15399,1187
+2003,connecticut,Hispanic,9,7482,285
+2003,delaware,Hispanic,9,744,107
+2003,district of columbia,Hispanic,9,0,0
+2003,florida,Hispanic,9,53766,2238
+2003,georgia,Hispanic,9,7791,484
+2003,hawaii,Hispanic,9,738,26
+2003,idaho,Hispanic,9,2188,94
+2003,illinois,Hispanic,9,27430,2452
+2003,indiana,Hispanic,9,3448,97
+2003,iowa,Hispanic,9,0,0
+2003,kansas,Hispanic,9,4309,109
+2003,kentucky,Hispanic,9,706,23
+2003,louisiana,Hispanic,9,941,58
+2003,maine,Hispanic,9,123,7
+2003,maryland,Hispanic,9,4677,198
+2003,massachusetts,Hispanic,9,10641,707
+2003,michigan,Hispanic,9,5689,466
+2003,minnesota,Hispanic,9,1425,99
+2003,mississippi,Hispanic,9,372,14
+2003,missouri,Hispanic,9,1691,80
+2003,montana,Hispanic,9,253,12
+2003,nebraska,Hispanic,9,2215,143
+2003,nevada,Hispanic,9,9860,579
+2003,new hampshire,Hispanic,9,392,10
+2003,new jersey,Hispanic,9,19789,721
+2003,new mexico,Hispanic,9,15310,871
+2003,new york,Hispanic,9,57566,2819
+2003,north carolina,Hispanic,9,6860,615
+2003,north dakota,Hispanic,9,114,4
+2003,ohio,Hispanic,9,3277,156
+2003,oklahoma,Hispanic,9,3528,364
+2003,oregon,Hispanic,9,0,0
+2003,pennsylvania,Hispanic,9,9153,0
+2003,rhode island,Hispanic,9,2325,119
+2003,south carolina,Hispanic,9,1778,121
+2003,south dakota,Hispanic,9,187,14
+2003,tennessee,Hispanic,9,0,0
+2003,texas,Hispanic,9,161094,6180
+2003,utah,Hispanic,9,3692,125
+2003,vermont,Hispanic,9,59,5
+2003,virginia,Hispanic,9,6629,562
+2003,washington,Hispanic,9,9817,1033
+2003,west virginia,Hispanic,9,100,4
+2003,wisconsin,Hispanic,9,0,0
+2003,wyoming,Hispanic,9,546,28
+2003,american samoa,Hispanic,9,0,0
+2003,guam,Hispanic,9,0,0
+2003,northern marianas,Hispanic,9,0,0
+2003,puerto rico,Hispanic,9,0,0
+2003,virgin islands,Hispanic,9,0,0
+2003,alabama,Black,10,19590,668
+2003,alaska,Black,10,486,48
+2003,arizona,Black,10,3661,256
+2003,arkansas,Black,10,7966,465
+2003,california,Black,10,41986,2185
+2003,colorado,Black,10,3171,185
+2003,connecticut,Black,10,5664,179
+2003,delaware,Black,10,2534,204
+2003,district of columbia,Black,10,0,0
+2003,florida,Black,10,44161,1836
+2003,georgia,Black,10,41729,2513
+2003,hawaii,Black,10,262,14
+2003,idaho,Black,10,120,4
+2003,illinois,Black,10,30189,3409
+2003,indiana,Black,10,8868,267
+2003,iowa,Black,10,1415,62
+2003,kansas,Black,10,3101,92
+2003,kentucky,Black,10,4903,255
+2003,louisiana,Black,10,21181,1935
+2003,maine,Black,10,270,7
+2003,maryland,Black,10,24094,1532
+2003,massachusetts,Black,10,6702,403
+2003,michigan,Black,10,23254,2818
+2003,minnesota,Black,10,4794,253
+2003,mississippi,Black,10,17010,598
+2003,missouri,Black,10,11559,623
+2003,montana,Black,10,57,1
+2003,nebraska,Black,10,1371,124
+2003,nevada,Black,10,3028,190
+2003,new hampshire,Black,10,214,15
+2003,new jersey,Black,10,18145,615
+2003,new mexico,Black,10,615,35
+2003,new york,Black,10,49692,8550
+2003,north carolina,Black,10,30927,1992
+2003,north dakota,Black,10,76,2
+2003,ohio,Black,10,22792,1751
+2003,oklahoma,Black,10,4919,282
+2003,oregon,Black,10,0,0
+2003,pennsylvania,Black,10,23266,0
+2003,rhode island,Black,10,1107,65
+2003,south carolina,Black,10,20590,854
+2003,south dakota,Black,10,139,5
+2003,tennessee,Black,10,0,0
+2003,texas,Black,10,44887,2149
+2003,utah,Black,10,364,16
+2003,vermont,Black,10,106,7
+2003,virginia,Black,10,23010,1082
+2003,washington,Black,10,4355,494
+2003,west virginia,Black,10,899,60
+2003,wisconsin,Black,10,0,0
+2003,wyoming,Black,10,105,5
+2003,american samoa,Black,10,0,0
+2003,guam,Black,10,0,0
+2003,northern marianas,Black,10,0,0
+2003,puerto rico,Black,10,0,0
+2003,virgin islands,Black,10,0,0
+2003,alabama,White,10,32332,1138
+2003,alaska,White,10,6495,377
+2003,arizona,White,10,41736,1514
+2003,arkansas,White,10,25261,902
+2003,california,White,10,174826,2278
+2003,colorado,White,10,38842,1361
+2003,connecticut,White,10,30734,333
+2003,delaware,White,10,5493,273
+2003,district of columbia,White,10,0,0
+2003,florida,White,10,102840,2537
+2003,georgia,White,10,59407,2953
+2003,hawaii,White,10,2693,151
+2003,idaho,White,10,17195,446
+2003,illinois,White,10,96746,3195
+2003,indiana,White,10,63870,1232
+2003,iowa,White,10,34912,536
+2003,kansas,White,10,29379,414
+2003,kentucky,White,10,42043,1444
+2003,louisiana,White,10,25315,1293
+2003,maine,White,10,15427,400
+2003,maryland,White,10,35234,1050
+2003,massachusetts,White,10,55897,1526
+2003,michigan,White,10,102393,2905
+2003,minnesota,White,10,56588,606
+2003,mississippi,White,10,16885,372
+2003,missouri,White,10,55837,1669
+2003,montana,White,10,10660,325
+2003,nebraska,White,10,18541,296
+2003,nevada,White,10,15889,609
+2003,new hampshire,White,10,15869,493
+2003,new jersey,White,10,0,0
+2003,new mexico,White,10,8921,310
+2003,new york,White,10,123485,4559
+2003,north carolina,White,10,61727,2947
+2003,north dakota,White,10,7722,118
+2003,ohio,White,10,115239,2354
+2003,oklahoma,White,10,28988,909
+2003,oregon,White,10,0,0
+2003,pennsylvania,White,10,116813,0
+2003,rhode island,White,10,9154,258
+2003,south carolina,White,10,28542,953
+2003,south dakota,White,10,8756,219
+2003,tennessee,White,10,0,0
+2003,texas,White,10,133070,2651
+2003,utah,White,10,31650,487
+2003,vermont,White,10,7855,193
+2003,virginia,White,10,56705,897
+2003,washington,White,10,60809,2617
+2003,west virginia,White,10,19465,860
+2003,wisconsin,White,10,0,0
+2003,wyoming,White,10,6253,170
+2003,american samoa,White,10,0,0
+2003,guam,White,10,0,0
+2003,northern marianas,White,10,0,0
+2003,puerto rico,White,10,0,0
+2003,virgin islands,White,10,0,0
+2003,alabama,Hispanic,10,790,38
+2003,alaska,Hispanic,10,346,25
+2003,arizona,Hispanic,10,25916,2544
+2003,arkansas,Hispanic,10,1548,109
+2003,california,Hispanic,10,208102,7297
+2003,colorado,Hispanic,10,12263,1221
+2003,connecticut,Hispanic,10,5570,227
+2003,delaware,Hispanic,10,502,67
+2003,district of columbia,Hispanic,10,0,0
+2003,florida,Hispanic,10,39717,1711
+2003,georgia,Hispanic,10,5566,471
+2003,hawaii,Hispanic,10,533,38
+2003,idaho,Hispanic,10,1985,145
+2003,illinois,Hispanic,10,22788,1809
+2003,indiana,Hispanic,10,2945,118
+2003,iowa,Hispanic,10,1526,92
+2003,kansas,Hispanic,10,3307,167
+2003,kentucky,Hispanic,10,572,20
+2003,louisiana,Hispanic,10,797,71
+2003,maine,Hispanic,10,109,6
+2003,maryland,Hispanic,10,3641,177
+2003,massachusetts,Hispanic,10,7744,719
+2003,michigan,Hispanic,10,4496,364
+2003,minnesota,Hispanic,10,2493,298
+2003,mississippi,Hispanic,10,265,5
+2003,missouri,Hispanic,10,1462,75
+2003,montana,Hispanic,10,230,19
+2003,nebraska,Hispanic,10,1747,143
+2003,nevada,Hispanic,10,7280,567
+2003,new hampshire,Hispanic,10,359,25
+2003,new jersey,Hispanic,10,17007,660
+2003,new mexico,Hispanic,10,12589,841
+2003,new york,Hispanic,10,43783,8368
+2003,north carolina,Hispanic,10,4583,467
+2003,north dakota,Hispanic,10,100,10
+2003,ohio,Hispanic,10,2599,166
+2003,oklahoma,Hispanic,10,2824,282
+2003,oregon,Hispanic,10,0,0
+2003,pennsylvania,Hispanic,10,7376,0
+2003,rhode island,Hispanic,10,1852,128
+2003,south carolina,Hispanic,10,1070,61
+2003,south dakota,Hispanic,10,132,23
+2003,tennessee,Hispanic,10,0,0
+2003,texas,Hispanic,10,121255,6708
+2003,utah,Hispanic,10,3458,188
+2003,vermont,Hispanic,10,61,5
+2003,virginia,Hispanic,10,5196,398
+2003,washington,Hispanic,10,8157,885
+2003,west virginia,Hispanic,10,121,3
+2003,wisconsin,Hispanic,10,0,0
+2003,wyoming,Hispanic,10,529,57
+2003,american samoa,Hispanic,10,0,0
+2003,guam,Hispanic,10,0,0
+2003,northern marianas,Hispanic,10,0,0
+2003,puerto rico,Hispanic,10,0,0
+2003,virgin islands,Hispanic,10,0,0
+2003,alabama,Black,11,16638,639
+2003,alaska,Black,11,359,34
+2003,arizona,Black,11,3361,283
+2003,arkansas,Black,11,6734,503
+2003,california,Black,11,36654,2074
+2003,colorado,Black,11,2656,202
+2003,connecticut,Black,11,4806,169
+2003,delaware,Black,11,2180,163
+2003,district of columbia,Black,11,0,0
+2003,florida,Black,11,37134,1674
+2003,georgia,Black,11,34443,2086
+2003,hawaii,Black,11,211,13
+2003,idaho,Black,11,109,3
+2003,illinois,Black,11,23911,2278
+2003,indiana,Black,11,7025,286
+2003,iowa,Black,11,1232,73
+2003,kansas,Black,11,2737,120
+2003,kentucky,Black,11,3973,201
+2003,louisiana,Black,11,18273,1608
+2003,maine,Black,11,228,3
+2003,maryland,Black,11,20506,1163
+2003,massachusetts,Black,11,5889,366
+2003,michigan,Black,11,18122,1733
+2003,minnesota,Black,11,4360,366
+2003,mississippi,Black,11,13792,515
+2003,missouri,Black,11,9444,502
+2003,montana,Black,11,61,3
+2003,nebraska,Black,11,1080,80
+2003,nevada,Black,11,2200,142
+2003,new hampshire,Black,11,199,15
+2003,new jersey,Black,11,15380,481
+2003,new mexico,Black,11,517,48
+2003,new york,Black,11,30043,2128
+2003,north carolina,Black,11,25391,1484
+2003,north dakota,Black,11,90,10
+2003,ohio,Black,11,18349,1665
+2003,oklahoma,Black,11,4095,247
+2003,oregon,Black,11,0,0
+2003,pennsylvania,Black,11,18736,0
+2003,rhode island,Black,11,967,69
+2003,south carolina,Black,11,15029,578
+2003,south dakota,Black,11,121,14
+2003,tennessee,Black,11,0,0
+2003,texas,Black,11,37634,1614
+2003,utah,Black,11,330,25
+2003,vermont,Black,11,82,11
+2003,virginia,Black,11,18969,791
+2003,washington,Black,11,3717,484
+2003,west virginia,Black,11,811,69
+2003,wisconsin,Black,11,0,0
+2003,wyoming,Black,11,66,10
+2003,american samoa,Black,11,0,0
+2003,guam,Black,11,0,0
+2003,northern marianas,Black,11,0,0
+2003,puerto rico,Black,11,0,0
+2003,virgin islands,Black,11,0,0
+2003,alabama,White,11,29290,1199
+2003,alaska,White,11,5815,304
+2003,arizona,White,11,39430,1727
+2003,arkansas,White,11,22764,1247
+2003,california,White,11,167026,2868
+2003,colorado,White,11,37595,1691
+2003,connecticut,White,11,29020,462
+2003,delaware,White,11,4875,221
+2003,district of columbia,White,11,0,0
+2003,florida,White,11,91199,2540
+2003,georgia,White,11,51835,2832
+2003,hawaii,White,11,2572,147
+2003,idaho,White,11,16023,524
+2003,illinois,White,11,91112,3791
+2003,indiana,White,11,58020,1706
+2003,iowa,White,11,33712,817
+2003,kansas,White,11,28268,671
+2003,kentucky,White,11,37816,1380
+2003,louisiana,White,11,23119,1139
+2003,maine,White,11,14535,446
+2003,maryland,White,11,33048,1107
+2003,massachusetts,White,11,52598,1748
+2003,michigan,White,11,95885,2911
+2003,minnesota,White,11,56604,1243
+2003,mississippi,White,11,14773,453
+2003,missouri,White,11,52367,2083
+2003,montana,White,11,10336,368
+2003,nebraska,White,11,18490,442
+2003,nevada,White,11,13372,593
+2003,new hampshire,White,11,15159,691
+2003,new jersey,White,11,58801,780
+2003,new mexico,White,11,8223,312
+2003,new york,White,11,112712,4047
+2003,north carolina,White,11,55346,2716
+2003,north dakota,White,11,7557,127
+2003,ohio,White,11,110118,3047
+2003,oklahoma,White,11,27121,981
+2003,oregon,White,11,0,0
+2003,pennsylvania,White,11,111221,0
+2003,rhode island,White,11,8442,265
+2003,south carolina,White,11,23024,730
+2003,south dakota,White,11,8639,342
+2003,tennessee,White,11,0,0
+2003,texas,White,11,122863,2873
+2003,utah,White,11,30723,772
+2003,vermont,White,11,7523,224
+2003,virginia,White,11,52489,968
+2003,washington,White,11,58255,3358
+2003,west virginia,White,11,18401,888
+2003,wisconsin,White,11,0,0
+2003,wyoming,White,11,5988,310
+2003,american samoa,White,11,0,0
+2003,guam,White,11,0,0
+2003,northern marianas,White,11,0,0
+2003,puerto rico,White,11,0,0
+2003,virgin islands,White,11,0,0
+2003,alabama,Hispanic,11,551,32
+2003,alaska,Hispanic,11,319,34
+2003,arizona,Hispanic,11,22095,2391
+2003,arkansas,Hispanic,11,1234,122
+2003,california,Hispanic,11,176361,7023
+2003,colorado,Hispanic,11,9748,1065
+2003,connecticut,Hispanic,11,4690,174
+2003,delaware,Hispanic,11,363,35
+2003,district of columbia,Hispanic,11,0,0
+2003,florida,Hispanic,11,32302,1267
+2003,georgia,Hispanic,11,3961,324
+2003,hawaii,Hispanic,11,603,36
+2003,idaho,Hispanic,11,1675,147
+2003,illinois,Hispanic,11,18613,1574
+2003,indiana,Hispanic,11,2309,89
+2003,iowa,Hispanic,11,1257,91
+2003,kansas,Hispanic,11,2678,131
+2003,kentucky,Hispanic,11,433,14
+2003,louisiana,Hispanic,11,702,59
+2003,maine,Hispanic,11,93,6
+2003,maryland,Hispanic,11,2973,147
+2003,massachusetts,Hispanic,11,6272,511
+2003,michigan,Hispanic,11,3547,248
+2003,minnesota,Hispanic,11,1950,261
+2003,mississippi,Hispanic,11,207,5
+2003,missouri,Hispanic,11,1188,60
+2003,montana,Hispanic,11,214,9
+2003,nebraska,Hispanic,11,1317,91
+2003,nevada,Hispanic,11,4868,417
+2003,new hampshire,Hispanic,11,304,17
+2003,new jersey,Hispanic,11,13768,512
+2003,new mexico,Hispanic,11,10472,709
+2003,new york,Hispanic,11,25726,1888
+2003,north carolina,Hispanic,11,3370,269
+2003,north dakota,Hispanic,11,91,7
+2003,ohio,Hispanic,11,2147,158
+2003,oklahoma,Hispanic,11,2266,206
+2003,oregon,Hispanic,11,0,0
+2003,pennsylvania,Hispanic,11,5780,0
+2003,rhode island,Hispanic,11,1413,112
+2003,south carolina,Hispanic,11,714,30
+2003,south dakota,Hispanic,11,128,21
+2003,tennessee,Hispanic,11,0,0
+2003,texas,Hispanic,11,97966,5037
+2003,utah,Hispanic,11,3156,293
+2003,vermont,Hispanic,11,67,7
+2003,virginia,Hispanic,11,4788,374
+2003,washington,Hispanic,11,6823,792
+2003,west virginia,Hispanic,11,73,3
+2003,wisconsin,Hispanic,11,0,0
+2003,wyoming,Hispanic,11,440,48
+2003,american samoa,Hispanic,11,0,0
+2003,guam,Hispanic,11,0,0
+2003,northern marianas,Hispanic,11,0,0
+2003,puerto rico,Hispanic,11,0,0
+2003,virgin islands,Hispanic,11,0,0
+2003,alabama,Black,12,14131,557
+2003,alaska,Black,12,389,35
+2003,arizona,Black,12,3224,318
+2003,arkansas,Black,12,6213,430
+2003,california,Black,12,31897,3672
+2003,colorado,Black,12,2426,235
+2003,connecticut,Black,12,4493,106
+2003,delaware,Black,12,1924,98
+2003,district of columbia,Black,12,0,0
+2003,florida,Black,12,31842,1824
+2003,georgia,Black,12,28991,1805
+2003,hawaii,Black,12,170,8
+2003,idaho,Black,12,93,9
+2003,illinois,Black,12,25161,1837
+2003,indiana,Black,12,5825,300
+2003,iowa,Black,12,1010,79
+2003,kansas,Black,12,2647,179
+2003,kentucky,Black,12,3639,149
+2003,louisiana,Black,12,17263,2760
+2003,maine,Black,12,186,7
+2003,maryland,Black,12,18998,1007
+2003,massachusetts,Black,12,5260,479
+2003,michigan,Black,12,13407,1221
+2003,minnesota,Black,12,5071,959
+2003,mississippi,Black,12,12807,391
+2003,missouri,Black,12,8428,491
+2003,montana,Black,12,39,6
+2003,nebraska,Black,12,1128,78
+2003,nevada,Black,12,1772,317
+2003,new hampshire,Black,12,154,21
+2003,new jersey,Black,12,13632,425
+2003,new mexico,Black,12,444,15
+2003,new york,Black,12,25830,1924
+2003,north carolina,Black,12,20812,1028
+2003,north dakota,Black,12,73,5
+2003,ohio,Black,12,15955,1494
+2003,oklahoma,Black,12,3484,173
+2003,oregon,Black,12,0,0
+2003,pennsylvania,Black,12,15497,0
+2003,rhode island,Black,12,732,29
+2003,south carolina,Black,12,14801,390
+2003,south dakota,Black,12,124,12
+2003,tennessee,Black,12,0,0
+2003,texas,Black,12,32837,2025
+2003,utah,Black,12,324,61
+2003,vermont,Black,12,88,8
+2003,virginia,Black,12,18152,752
+2003,washington,Black,12,3568,487
+2003,west virginia,Black,12,680,30
+2003,wisconsin,Black,12,0,0
+2003,wyoming,Black,12,41,6
+2003,american samoa,Black,12,0,0
+2003,guam,Black,12,0,0
+2003,northern marianas,Black,12,0,0
+2003,puerto rico,Black,12,0,0
+2003,virgin islands,Black,12,0,0
+2003,alabama,White,12,26640,918
+2003,alaska,White,12,5548,277
+2003,arizona,White,12,38509,2163
+2003,arkansas,White,12,21309,1236
+2003,california,White,12,158596,5969
+2003,colorado,White,12,35686,2109
+2003,connecticut,White,12,27470,426
+2003,delaware,White,12,4834,197
+2003,district of columbia,White,12,0,0
+2003,florida,White,12,81249,2338
+2003,georgia,White,12,46699,2561
+2003,hawaii,White,12,2137,177
+2003,idaho,White,12,15203,521
+2003,illinois,White,12,91449,3751
+2003,indiana,White,12,54836,2123
+2003,iowa,White,12,34084,1270
+2003,kansas,White,12,27939,781
+2003,kentucky,White,12,34686,1141
+2003,louisiana,White,12,22377,1182
+2003,maine,White,12,14013,510
+2003,maryland,White,12,31546,915
+2003,massachusetts,White,12,48870,1889
+2003,michigan,White,12,90328,3109
+2003,minnesota,White,12,60233,2771
+2003,mississippi,White,12,13403,393
+2003,missouri,White,12,50693,1723
+2003,montana,White,12,10071,335
+2003,nebraska,White,12,18917,551
+2003,nevada,White,12,11479,921
+2003,new hampshire,White,12,13829,939
+2003,new jersey,White,12,56652,771
+2003,new mexico,White,12,7679,243
+2003,new york,White,12,109690,4230
+2003,north carolina,White,12,50034,2119
+2003,north dakota,White,12,7656,185
+2003,ohio,White,12,107142,3935
+2003,oklahoma,White,12,26155,921
+2003,oregon,White,12,0,0
+2003,pennsylvania,White,12,108408,0
+2003,rhode island,White,12,7725,197
+2003,south carolina,White,12,22283,580
+2003,south dakota,White,12,8724,357
+2003,tennessee,White,12,0,0
+2003,texas,White,12,116452,3259
+2003,utah,White,12,30809,2329
+2003,vermont,White,12,7273,212
+2003,virginia,White,12,50662,1195
+2003,washington,White,12,56898,4858
+2003,west virginia,White,12,17614,771
+2003,wisconsin,White,12,0,0
+2003,wyoming,White,12,5922,382
+2003,american samoa,White,12,0,0
+2003,guam,White,12,0,0
+2003,northern marianas,White,12,0,0
+2003,puerto rico,White,12,0,0
+2003,virgin islands,White,12,0,0
+2003,alabama,Hispanic,12,418,14
+2003,alaska,Hispanic,12,284,27
+2003,arizona,Hispanic,12,20741,2952
+2003,arkansas,Hispanic,12,857,71
+2003,california,Hispanic,12,147578,11886
+2003,colorado,Hispanic,12,8449,1013
+2003,connecticut,Hispanic,12,3907,159
+2003,delaware,Hispanic,12,306,23
+2003,district of columbia,Hispanic,12,0,0
+2003,florida,Hispanic,12,27448,1379
+2003,georgia,Hispanic,12,2975,286
+2003,hawaii,Hispanic,12,481,38
+2003,idaho,Hispanic,12,1493,117
+2003,illinois,Hispanic,12,17297,1267
+2003,indiana,Hispanic,12,2016,114
+2003,iowa,Hispanic,12,1129,103
+2003,kansas,Hispanic,12,2338,122
+2003,kentucky,Hispanic,12,395,8
+2003,louisiana,Hispanic,12,656,60
+2003,maine,Hispanic,12,92,5
+2003,maryland,Hispanic,12,2508,100
+2003,massachusetts,Hispanic,12,5053,511
+2003,michigan,Hispanic,12,2896,194
+2003,minnesota,Hispanic,12,2180,469
+2003,mississippi,Hispanic,12,131,6
+2003,missouri,Hispanic,12,1036,62
+2003,montana,Hispanic,12,188,6
+2003,nebraska,Hispanic,12,1184,109
+2003,nevada,Hispanic,12,3725,640
+2003,new hampshire,Hispanic,12,252,36
+2003,new jersey,Hispanic,12,12165,406
+2003,new mexico,Hispanic,12,8770,478
+2003,new york,Hispanic,12,21186,1577
+2003,north carolina,Hispanic,12,2450,135
+2003,north dakota,Hispanic,12,89,4
+2003,ohio,Hispanic,12,1896,143
+2003,oklahoma,Hispanic,12,1854,144
+2003,oregon,Hispanic,12,0,0
+2003,pennsylvania,Hispanic,12,4486,0
+2003,rhode island,Hispanic,12,1061,52
+2003,south carolina,Hispanic,12,570,18
+2003,south dakota,Hispanic,12,114,11
+2003,tennessee,Hispanic,12,0,0
+2003,texas,Hispanic,12,85101,5836
+2003,utah,Hispanic,12,2768,643
+2003,vermont,Hispanic,12,59,7
+2003,virginia,Hispanic,12,3438,261
+2003,washington,Hispanic,12,6084,776
+2003,west virginia,Hispanic,12,91,7
+2003,wisconsin,Hispanic,12,0,0
+2003,wyoming,Hispanic,12,350,34
+2003,american samoa,Hispanic,12,0,0
+2003,guam,Hispanic,12,0,0
+2003,northern marianas,Hispanic,12,0,0
+2003,puerto rico,Hispanic,12,0,0
+2003,virgin islands,Hispanic,12,0,0
+2004,alabama,Black,7,0,0
+2004,alaska,Black,7,523,16
+2004,arizona,Black,7,4054,68
+2004,arkansas,Black,7,0,0
+2004,california,Black,7,40774,829
+2004,colorado,Black,7,3570,60
+2004,connecticut,Black,7,0,0
+2004,delaware,Black,7,3266,9
+2004,district of columbia,Black,7,0,0
+2004,florida,Black,7,51447,773
+2004,georgia,Black,7,48731,568
+2004,hawaii,Black,7,319,4
+2004,idaho,Black,7,191,1
+2004,illinois,Black,7,34113,366
+2004,indiana,Black,7,10776,72
+2004,iowa,Black,7,1878,1
+2004,kansas,Black,7,3238,1
+2004,kentucky,Black,7,5589,8
+2004,louisiana,Black,7,28746,641
+2004,maine,Black,7,289,0
+2004,maryland,Black,7,27551,55
+2004,massachusetts,Black,7,0,0
+2004,michigan,Black,7,29986,0
+2004,minnesota,Black,7,0,0
+2004,mississippi,Black,7,21719,194
+2004,missouri,Black,7,13962,425
+2004,montana,Black,7,91,0
+2004,nebraska,Black,7,1636,1
+2004,nevada,Black,7,0,0
+2004,new hampshire,Black,7,0,0
+2004,new jersey,Black,7,0,0
+2004,new mexico,Black,7,614,12
+2004,new york,Black,7,46770,242
+2004,north carolina,Black,7,0,0
+2004,north dakota,Black,7,84,0
+2004,ohio,Black,7,25494,240
+2004,oklahoma,Black,7,5270,66
+2004,oregon,Black,7,0,0
+2004,pennsylvania,Black,7,24438,13
+2004,rhode island,Black,7,0,0
+2004,south carolina,Black,7,23937,34
+2004,south dakota,Black,7,158,0
+2004,tennessee,Black,7,0,0
+2004,texas,Black,7,48282,119
+2004,utah,Black,7,453,7
+2004,vermont,Black,7,93,0
+2004,virginia,Black,7,13855,111
+2004,washington,Black,7,0,0
+2004,west virginia,Black,7,1093,1
+2004,wisconsin,Black,7,7261,138
+2004,wyoming,Black,7,105,0
+2004,american samoa,Black,7,0,0
+2004,guam,Black,7,0,0
+2004,northern marianas,Black,7,0,0
+2004,puerto rico,Black,7,0,0
+2004,virgin islands,Black,7,0,0
+2004,alabama,White,7,0,0
+2004,alaska,White,7,6269,106
+2004,arizona,White,7,38393,306
+2004,arkansas,White,7,0,0
+2004,california,White,7,158469,881
+2004,colorado,White,7,38112,248
+2004,connecticut,White,7,0,0
+2004,delaware,White,7,5539,9
+2004,district of columbia,White,7,0,0
+2004,florida,White,7,106423,934
+2004,georgia,White,7,59689,219
+2004,hawaii,White,7,2698,30
+2004,idaho,White,7,16881,17
+2004,illinois,White,7,92784,130
+2004,indiana,White,7,66549,84
+2004,iowa,White,7,32850,1
+2004,kansas,White,7,27443,4
+2004,kentucky,White,7,44061,23
+2004,louisiana,White,7,27768,241
+2004,maine,White,7,16003,6
+2004,maryland,White,7,33822,5
+2004,massachusetts,White,7,0,0
+2004,michigan,White,7,98230,0
+2004,minnesota,White,7,0,0
+2004,mississippi,White,7,19657,57
+2004,missouri,White,7,57278,115
+2004,montana,White,7,10096,8
+2004,nebraska,White,7,17416,19
+2004,nevada,White,7,0,0
+2004,new hampshire,White,7,0,0
+2004,new jersey,White,7,0,0
+2004,new mexico,White,7,8078,20
+2004,new york,White,7,121970,46
+2004,north carolina,White,7,0,0
+2004,north dakota,White,7,6936,0
+2004,ohio,White,7,112127,237
+2004,oklahoma,White,7,29124,121
+2004,oregon,White,7,0,0
+2004,pennsylvania,White,7,112915,16
+2004,rhode island,White,7,0,0
+2004,south carolina,White,7,30652,17
+2004,south dakota,White,7,8222,1
+2004,tennessee,White,7,0,0
+2004,texas,White,7,130025,106
+2004,utah,White,7,31130,263
+2004,vermont,White,7,7093,5
+2004,virginia,White,7,0,0
+2004,washington,White,7,0,0
+2004,west virginia,White,7,21029,23
+2004,wisconsin,White,7,51826,60
+2004,wyoming,White,7,5779,7
+2004,american samoa,White,7,0,0
+2004,guam,White,7,0,0
+2004,northern marianas,White,7,0,0
+2004,puerto rico,White,7,0,0
+2004,virgin islands,White,7,0,0
+2004,alabama,Hispanic,7,0,0
+2004,alaska,Hispanic,7,423,17
+2004,arizona,Hispanic,7,30948,482
+2004,arkansas,Hispanic,7,2011,15
+2004,california,Hispanic,7,230382,2240
+2004,colorado,Hispanic,7,15290,227
+2004,connecticut,Hispanic,7,0,0
+2004,delaware,Hispanic,7,794,1
+2004,district of columbia,Hispanic,7,0,0
+2004,florida,Hispanic,7,47139,695
+2004,georgia,Hispanic,7,8608,68
+2004,hawaii,Hispanic,7,626,4
+2004,idaho,Hispanic,7,2587,1
+2004,illinois,Hispanic,7,28382,166
+2004,indiana,Hispanic,7,4018,23
+2004,iowa,Hispanic,7,1844,1
+2004,kansas,Hispanic,7,4113,11
+2004,kentucky,Hispanic,7,864,3
+2004,louisiana,Hispanic,7,1156,18
+2004,maine,Hispanic,7,138,0
+2004,maryland,Hispanic,7,4375,1
+2004,massachusetts,Hispanic,7,0,0
+2004,michigan,Hispanic,7,5385,0
+2004,minnesota,Hispanic,7,0,0
+2004,mississippi,Hispanic,7,467,1
+2004,missouri,Hispanic,7,1982,14
+2004,montana,Hispanic,7,247,1
+2004,nebraska,Hispanic,7,2212,9
+2004,nevada,Hispanic,7,0,0
+2004,new hampshire,Hispanic,7,0,0
+2004,new jersey,Hispanic,7,0,0
+2004,new mexico,Hispanic,7,13728,131
+2004,new york,Hispanic,7,43842,157
+2004,north carolina,Hispanic,7,0,0
+2004,north dakota,Hispanic,7,172,0
+2004,ohio,Hispanic,7,3019,30
+2004,oklahoma,Hispanic,7,3719,65
+2004,oregon,Hispanic,7,0,0
+2004,pennsylvania,Hispanic,7,8762,15
+2004,rhode island,Hispanic,7,0,0
+2004,south carolina,Hispanic,7,1793,1
+2004,south dakota,Hispanic,7,184,0
+2004,tennessee,Hispanic,7,0,0
+2004,texas,Hispanic,7,144094,324
+2004,utah,Hispanic,7,4413,71
+2004,vermont,Hispanic,7,61,2
+2004,virginia,Hispanic,7,6049,36
+2004,washington,Hispanic,7,0,0
+2004,west virginia,Hispanic,7,146,0
+2004,wisconsin,Hispanic,7,3791,37
+2004,wyoming,Hispanic,7,622,2
+2004,american samoa,Hispanic,7,0,0
+2004,guam,Hispanic,7,0,0
+2004,northern marianas,Hispanic,7,0,0
+2004,puerto rico,Hispanic,7,0,0
+2004,virgin islands,Hispanic,7,0,0
+2004,alabama,Black,8,0,0
+2004,alaska,Black,8,516,8
+2004,arizona,Black,8,3941,61
+2004,arkansas,Black,8,0,0
+2004,california,Black,8,41767,919
+2004,colorado,Black,8,3499,92
+2004,connecticut,Black,8,0,0
+2004,delaware,Black,8,3676,27
+2004,district of columbia,Black,8,0,0
+2004,florida,Black,8,50126,1194
+2004,georgia,Black,8,48279,814
+2004,hawaii,Black,8,294,8
+2004,idaho,Black,8,191,1
+2004,illinois,Black,8,33778,465
+2004,indiana,Black,8,10405,71
+2004,iowa,Black,8,1688,3
+2004,kansas,Black,8,3283,4
+2004,kentucky,Black,8,5490,20
+2004,louisiana,Black,8,30017,1572
+2004,maine,Black,8,269,0
+2004,maryland,Black,8,26935,65
+2004,massachusetts,Black,8,0,0
+2004,michigan,Black,8,28797,0
+2004,minnesota,Black,8,0,0
+2004,mississippi,Black,8,20399,207
+2004,missouri,Black,8,13693,410
+2004,montana,Black,8,82,0
+2004,nebraska,Black,8,1581,4
+2004,nevada,Black,8,0,0
+2004,new hampshire,Black,8,0,0
+2004,new jersey,Black,8,0,0
+2004,new mexico,Black,8,652,4
+2004,new york,Black,8,45106,194
+2004,north carolina,Black,8,35429,211
+2004,north dakota,Black,8,101,0
+2004,ohio,Black,8,25152,371
+2004,oklahoma,Black,8,5079,75
+2004,oregon,Black,8,0,0
+2004,pennsylvania,Black,8,23547,45
+2004,rhode island,Black,8,0,0
+2004,south carolina,Black,8,23453,60
+2004,south dakota,Black,8,144,0
+2004,tennessee,Black,8,0,0
+2004,texas,Black,8,47739,405
+2004,utah,Black,8,471,10
+2004,vermont,Black,8,100,0
+2004,virginia,Black,8,26371,206
+2004,washington,Black,8,0,0
+2004,west virginia,Black,8,1022,5
+2004,wisconsin,Black,8,6923,133
+2004,wyoming,Black,8,97,2
+2004,american samoa,Black,8,0,0
+2004,guam,Black,8,0,0
+2004,northern marianas,Black,8,0,0
+2004,puerto rico,Black,8,0,0
+2004,virgin islands,Black,8,0,0
+2004,alabama,White,8,0,0
+2004,alaska,White,8,6429,125
+2004,arizona,White,8,38980,400
+2004,arkansas,White,8,0,0
+2004,california,White,8,165584,969
+2004,colorado,White,8,38676,382
+2004,connecticut,White,8,0,0
+2004,delaware,White,8,5669,19
+2004,district of columbia,White,8,0,0
+2004,florida,White,8,107150,1184
+2004,georgia,White,8,60819,404
+2004,hawaii,White,8,2780,41
+2004,idaho,White,8,17172,26
+2004,illinois,White,8,94179,212
+2004,indiana,White,8,67685,154
+2004,iowa,White,8,33683,6
+2004,kansas,White,8,27665,11
+2004,kentucky,White,8,44825,67
+2004,louisiana,White,8,27890,433
+2004,maine,White,8,16199,7
+2004,maryland,White,8,34838,29
+2004,massachusetts,White,8,0,0
+2004,michigan,White,8,101229,0
+2004,minnesota,White,8,0,0
+2004,mississippi,White,8,18955,100
+2004,missouri,White,8,56874,134
+2004,montana,White,8,10256,2
+2004,nebraska,White,8,17800,29
+2004,nevada,White,8,0,0
+2004,new hampshire,White,8,0,0
+2004,new jersey,White,8,0,0
+2004,new mexico,White,8,8464,17
+2004,new york,White,8,123221,94
+2004,north carolina,White,8,64144,245
+2004,north dakota,White,8,7105,1
+2004,ohio,White,8,114278,316
+2004,oklahoma,White,8,28941,162
+2004,oregon,White,8,0,0
+2004,pennsylvania,White,8,116268,41
+2004,rhode island,White,8,0,0
+2004,south carolina,White,8,30419,27
+2004,south dakota,White,8,8252,3
+2004,tennessee,White,8,0,0
+2004,texas,White,8,131623,604
+2004,utah,White,8,31197,130
+2004,vermont,White,8,7453,15
+2004,virginia,White,8,0,0
+2004,washington,White,8,0,0
+2004,west virginia,White,8,21264,80
+2004,wisconsin,White,8,53117,50
+2004,wyoming,White,8,6014,10
+2004,american samoa,White,8,0,0
+2004,guam,White,8,0,0
+2004,northern marianas,White,8,0,0
+2004,puerto rico,White,8,0,0
+2004,virgin islands,White,8,0,0
+2004,alabama,Hispanic,8,0,0
+2004,alaska,Hispanic,8,405,8
+2004,arizona,Hispanic,8,29049,658
+2004,arkansas,Hispanic,8,0,0
+2004,california,Hispanic,8,228262,3642
+2004,colorado,Hispanic,8,14759,372
+2004,connecticut,Hispanic,8,0,0
+2004,delaware,Hispanic,8,856,5
+2004,district of columbia,Hispanic,8,0,0
+2004,florida,Hispanic,8,47347,1243
+2004,georgia,Hispanic,8,8025,116
+2004,hawaii,Hispanic,8,643,7
+2004,idaho,Hispanic,8,2309,4
+2004,illinois,Hispanic,8,27429,328
+2004,indiana,Hispanic,8,3700,20
+2004,iowa,Hispanic,8,1806,3
+2004,kansas,Hispanic,8,3956,7
+2004,kentucky,Hispanic,8,781,3
+2004,louisiana,Hispanic,8,1037,32
+2004,maine,Hispanic,8,119,1
+2004,maryland,Hispanic,8,4309,1
+2004,massachusetts,Hispanic,8,0,0
+2004,michigan,Hispanic,8,5295,0
+2004,minnesota,Hispanic,8,0,0
+2004,mississippi,Hispanic,8,439,3
+2004,missouri,Hispanic,8,1800,14
+2004,montana,Hispanic,8,228,0
+2004,nebraska,Hispanic,8,2189,15
+2004,nevada,Hispanic,8,0,0
+2004,new hampshire,Hispanic,8,0,0
+2004,new jersey,Hispanic,8,0,0
+2004,new mexico,Hispanic,8,13700,202
+2004,new york,Hispanic,8,43125,149
+2004,north carolina,Hispanic,8,6790,71
+2004,north dakota,Hispanic,8,141,0
+2004,ohio,Hispanic,8,2877,51
+2004,oklahoma,Hispanic,8,3462,76
+2004,oregon,Hispanic,8,0,0
+2004,pennsylvania,Hispanic,8,8592,26
+2004,rhode island,Hispanic,8,0,0
+2004,south carolina,Hispanic,8,1735,2
+2004,south dakota,Hispanic,8,184,0
+2004,tennessee,Hispanic,8,0,0
+2004,texas,Hispanic,8,139472,1200
+2004,utah,Hispanic,8,4238,70
+2004,vermont,Hispanic,8,64,0
+2004,virginia,Hispanic,8,5895,23
+2004,washington,Hispanic,8,0,0
+2004,west virginia,Hispanic,8,140,2
+2004,wisconsin,Hispanic,8,3701,39
+2004,wyoming,Hispanic,8,533,4
+2004,american samoa,Hispanic,8,0,0
+2004,guam,Hispanic,8,0,0
+2004,northern marianas,Hispanic,8,0,0
+2004,puerto rico,Hispanic,8,0,0
+2004,virgin islands,Hispanic,8,0,0
+2004,alabama,Black,9,24224,587
+2004,alaska,Black,9,522,48
+2004,arizona,Black,9,4599,197
+2004,arkansas,Black,9,9017,363
+2004,california,Black,9,48501,2145
+2004,colorado,Black,9,4272,417
+2004,connecticut,Black,9,7456,163
+2004,delaware,Black,9,3690,295
+2004,district of columbia,Black,9,0,0
+2004,florida,Black,9,63462,2767
+2004,georgia,Black,9,58033,3794
+2004,hawaii,Black,9,346,12
+2004,idaho,Black,9,186,4
+2004,illinois,Black,9,39336,3656
+2004,indiana,Black,9,12028,246
+2004,iowa,Black,9,1891,83
+2004,kansas,Black,9,3667,94
+2004,kentucky,Black,9,6307,206
+2004,louisiana,Black,9,27065,3076
+2004,maine,Black,9,301,7
+2004,maryland,Black,9,32958,2384
+2004,massachusetts,Black,9,8565,431
+2004,michigan,Black,9,37628,3101
+2004,minnesota,Black,9,5672,218
+2004,mississippi,Black,9,20711,691
+2004,missouri,Black,9,14515,801
+2004,montana,Black,9,88,1
+2004,nebraska,Black,9,2283,117
+2004,nevada,Black,9,0,0
+2004,new hampshire,Black,9,258,3
+2004,new jersey,Black,9,22103,651
+2004,new mexico,Black,9,721,35
+2004,new york,Black,9,62325,2975
+2004,north carolina,Black,9,42556,2672
+2004,north dakota,Black,9,93,2
+2004,ohio,Black,9,32660,3303
+2004,oklahoma,Black,9,5848,240
+2004,oregon,Black,9,0,0
+2004,pennsylvania,Black,9,27390,1110
+2004,rhode island,Black,9,1313,93
+2004,south carolina,Black,9,27886,1213
+2004,south dakota,Black,9,161,6
+2004,tennessee,Black,9,0,0
+2004,texas,Black,9,58401,1776
+2004,utah,Black,9,422,10
+2004,vermont,Black,9,112,7
+2004,virginia,Black,9,31645,905
+2004,washington,Black,9,5007,320
+2004,west virginia,Black,9,1119,49
+2004,wisconsin,Black,9,9059,676
+2004,wyoming,Black,9,84,3
+2004,american samoa,Black,9,0,0
+2004,guam,Black,9,0,0
+2004,northern marianas,Black,9,0,0
+2004,puerto rico,Black,9,0,0
+2004,virgin islands,Black,9,0,0
+2004,alabama,White,9,37997,873
+2004,alaska,White,9,6994,333
+2004,arizona,White,9,46608,981
+2004,arkansas,White,9,0,0
+2004,california,White,9,179590,2030
+2004,colorado,White,9,40958,1280
+2004,connecticut,White,9,0,0
+2004,delaware,White,9,6451,386
+2004,district of columbia,White,9,0,0
+2004,florida,White,9,125636,3383
+2004,georgia,White,9,69296,3191
+2004,hawaii,White,9,3327,139
+2004,idaho,White,9,17952,262
+2004,illinois,White,9,102791,1409
+2004,indiana,White,9,70732,775
+2004,iowa,White,9,36142,266
+2004,kansas,White,9,30209,271
+2004,kentucky,White,9,49456,1099
+2004,louisiana,White,9,29824,1583
+2004,maine,White,9,16025,215
+2004,maryland,White,9,39067,858
+2004,massachusetts,White,9,31134,711
+2004,michigan,White,9,112312,2458
+2004,minnesota,White,9,0,0
+2004,mississippi,White,9,19673,275
+2004,missouri,White,9,60781,1073
+2004,montana,White,9,11149,195
+2004,nebraska,White,9,19736,152
+2004,nevada,White,9,0,0
+2004,new hampshire,White,9,17654,152
+2004,new jersey,White,9,0,0
+2004,new mexico,White,9,9267,62
+2004,new york,White,9,132031,1773
+2004,north carolina,White,9,71625,2956
+2004,north dakota,White,9,7344,42
+2004,ohio,White,9,124457,2344
+2004,oklahoma,White,9,30913,767
+2004,oregon,White,9,0,0
+2004,pennsylvania,White,9,123472,943
+2004,rhode island,White,9,0,0
+2004,south carolina,White,9,33320,938
+2004,south dakota,White,9,8757,89
+2004,tennessee,White,9,0,0
+2004,texas,White,9,147954,2146
+2004,utah,White,9,31653,197
+2004,vermont,White,9,8184,106
+2004,virginia,White,9,64431,859
+2004,washington,White,9,64858,1848
+2004,west virginia,White,9,22771,767
+2004,wisconsin,White,9,59100,214
+2004,wyoming,White,9,6311,123
+2004,american samoa,White,9,0,0
+2004,guam,White,9,0,0
+2004,northern marianas,White,9,0,0
+2004,puerto rico,White,9,0,0
+2004,virgin islands,White,9,0,0
+2004,alabama,Hispanic,9,1229,31
+2004,alaska,Hispanic,9,442,32
+2004,arizona,Hispanic,9,31704,1902
+2004,arkansas,Hispanic,9,1809,71
+2004,california,Hispanic,9,250915,6482
+2004,colorado,Hispanic,9,16629,2096
+2004,connecticut,Hispanic,9,7673,291
+2004,delaware,Hispanic,9,838,113
+2004,district of columbia,Hispanic,9,0,0
+2004,florida,Hispanic,9,55514,2061
+2004,georgia,Hispanic,9,9131,735
+2004,hawaii,Hispanic,9,748,21
+2004,idaho,Hispanic,9,2526,124
+2004,illinois,Hispanic,9,29054,2447
+2004,indiana,Hispanic,9,4011,117
+2004,iowa,Hispanic,9,1909,121
+2004,kansas,Hispanic,9,4391,97
+2004,kentucky,Hispanic,9,895,30
+2004,louisiana,Hispanic,9,1049,80
+2004,maine,Hispanic,9,136,3
+2004,maryland,Hispanic,9,5462,308
+2004,massachusetts,Hispanic,9,11280,830
+2004,michigan,Hispanic,9,6157,517
+2004,minnesota,Hispanic,9,0,0
+2004,mississippi,Hispanic,9,452,8
+2004,missouri,Hispanic,9,1913,82
+2004,montana,Hispanic,9,314,12
+2004,nebraska,Hispanic,9,2362,123
+2004,nevada,Hispanic,9,0,0
+2004,new hampshire,Hispanic,9,444,14
+2004,new jersey,Hispanic,9,20538,613
+2004,new mexico,Hispanic,9,15714,950
+2004,new york,Hispanic,9,60597,3149
+2004,north carolina,Hispanic,9,7936,711
+2004,north dakota,Hispanic,9,159,3
+2004,ohio,Hispanic,9,3619,318
+2004,oklahoma,Hispanic,9,3739,253
+2004,oregon,Hispanic,9,0,0
+2004,pennsylvania,Hispanic,9,9665,498
+2004,rhode island,Hispanic,9,2563,191
+2004,south carolina,Hispanic,9,1959,118
+2004,south dakota,Hispanic,9,183,3
+2004,tennessee,Hispanic,9,0,0
+2004,texas,Hispanic,9,168187,5996
+2004,utah,Hispanic,9,4106,125
+2004,vermont,Hispanic,9,63,3
+2004,virginia,Hispanic,9,7147,587
+2004,washington,Hispanic,9,10320,811
+2004,west virginia,Hispanic,9,145,8
+2004,wisconsin,Hispanic,9,4301,207
+2004,wyoming,Hispanic,9,611,46
+2004,american samoa,Hispanic,9,0,0
+2004,guam,Hispanic,9,0,0
+2004,northern marianas,Hispanic,9,0,0
+2004,puerto rico,Hispanic,9,0,0
+2004,virgin islands,Hispanic,9,0,0
+2004,alabama,Black,10,19511,676
+2004,alaska,Black,10,438,50
+2004,arizona,Black,10,4072,241
+2004,arkansas,Black,10,8156,466
+2004,california,Black,10,43117,1734
+2004,colorado,Black,10,3248,326
+2004,connecticut,Black,10,6280,201
+2004,delaware,Black,10,2770,188
+2004,district of columbia,Black,10,0,0
+2004,florida,Black,10,47326,2060
+2004,georgia,Black,10,42849,2779
+2004,hawaii,Black,10,274,20
+2004,idaho,Black,10,169,11
+2004,illinois,Black,10,32068,2996
+2004,indiana,Black,10,9269,314
+2004,iowa,Black,10,1698,100
+2004,kansas,Black,10,3217,117
+2004,kentucky,Black,10,5092,336
+2004,louisiana,Black,10,20978,1769
+2004,maine,Black,10,264,9
+2004,maryland,Black,10,24954,1443
+2004,massachusetts,Black,10,6740,448
+2004,michigan,Black,10,24919,1764
+2004,minnesota,Black,10,5297,272
+2004,mississippi,Black,10,17465,604
+2004,missouri,Black,10,12048,826
+2004,montana,Black,10,68,4
+2004,nebraska,Black,10,1503,118
+2004,nevada,Black,10,0,0
+2004,new hampshire,Black,10,245,11
+2004,new jersey,Black,10,19053,645
+2004,new mexico,Black,10,634,40
+2004,new york,Black,10,49762,9095
+2004,north carolina,Black,10,32133,2062
+2004,north dakota,Black,10,74,3
+2004,ohio,Black,10,22390,1241
+2004,oklahoma,Black,10,4827,258
+2004,oregon,Black,10,0,0
+2004,pennsylvania,Black,10,23123,1704
+2004,rhode island,Black,10,1111,78
+2004,south carolina,Black,10,21400,921
+2004,south dakota,Black,10,137,6
+2004,tennessee,Black,10,0,0
+2004,texas,Black,10,45536,1952
+2004,utah,Black,10,397,16
+2004,vermont,Black,10,110,3
+2004,virginia,Black,10,24658,762
+2004,washington,Black,10,4403,276
+2004,west virginia,Black,10,907,50
+2004,wisconsin,Black,10,6393,390
+2004,wyoming,Black,10,101,6
+2004,american samoa,Black,10,0,0
+2004,guam,Black,10,0,0
+2004,northern marianas,Black,10,0,0
+2004,puerto rico,Black,10,0,0
+2004,virgin islands,Black,10,0,0
+2004,alabama,White,10,32242,922
+2004,alaska,White,10,6460,392
+2004,arizona,White,10,43310,1411
+2004,arkansas,White,10,25246,813
+2004,california,White,10,173322,2145
+2004,colorado,White,10,39295,1778
+2004,connecticut,White,10,0,0
+2004,delaware,White,10,5479,220
+2004,district of columbia,White,10,0,0
+2004,florida,White,10,106094,2838
+2004,georgia,White,10,59161,3150
+2004,hawaii,White,10,2706,142
+2004,idaho,White,10,17290,395
+2004,illinois,White,10,97331,1894
+2004,indiana,White,10,64975,1263
+2004,iowa,White,10,35100,468
+2004,kansas,White,10,28611,452
+2004,kentucky,White,10,42497,1445
+2004,louisiana,White,10,25231,1309
+2004,maine,White,10,15402,355
+2004,maryland,White,10,35618,917
+2004,massachusetts,White,10,56867,1414
+2004,michigan,White,10,103162,2813
+2004,minnesota,White,10,0,0
+2004,mississippi,White,10,16995,421
+2004,missouri,White,10,56572,1823
+2004,montana,White,10,10442,274
+2004,nebraska,White,10,18630,280
+2004,nevada,White,10,0,0
+2004,new hampshire,White,10,16375,421
+2004,new jersey,White,10,0,0
+2004,new mexico,White,10,8876,93
+2004,new york,White,10,123795,4136
+2004,north carolina,White,10,62817,3022
+2004,north dakota,White,10,7535,133
+2004,ohio,White,10,114331,1759
+2004,oklahoma,White,10,29088,873
+2004,oregon,White,10,0,0
+2004,pennsylvania,White,10,118963,1904
+2004,rhode island,White,10,8983,275
+2004,south carolina,White,10,29328,883
+2004,south dakota,White,10,8604,222
+2004,tennessee,White,10,0,0
+2004,texas,White,10,132020,2590
+2004,utah,White,10,31442,487
+2004,vermont,White,10,7849,218
+2004,virginia,White,10,58338,825
+2004,washington,White,10,61225,1935
+2004,west virginia,White,10,19929,862
+2004,wisconsin,White,10,57970,230
+2004,wyoming,White,10,6263,239
+2004,american samoa,White,10,0,0
+2004,guam,White,10,0,0
+2004,northern marianas,White,10,0,0
+2004,puerto rico,White,10,0,0
+2004,virgin islands,White,10,0,0
+2004,alabama,Hispanic,10,915,38
+2004,alaska,Hispanic,10,394,48
+2004,arizona,Hispanic,10,27139,2296
+2004,arkansas,Hispanic,10,1731,102
+2004,california,Hispanic,10,212568,6266
+2004,colorado,Hispanic,10,12634,1893
+2004,connecticut,Hispanic,10,6005,265
+2004,delaware,Hispanic,10,550,54
+2004,district of columbia,Hispanic,10,0,0
+2004,florida,Hispanic,10,43639,1682
+2004,georgia,Hispanic,10,6138,565
+2004,hawaii,Hispanic,10,564,25
+2004,idaho,Hispanic,10,2076,131
+2004,illinois,Hispanic,10,23599,1764
+2004,indiana,Hispanic,10,3060,123
+2004,iowa,Hispanic,10,1643,90
+2004,kansas,Hispanic,10,3556,146
+2004,kentucky,Hispanic,10,675,27
+2004,louisiana,Hispanic,10,840,55
+2004,maine,Hispanic,10,112,6
+2004,maryland,Hispanic,10,3993,218
+2004,massachusetts,Hispanic,10,8147,830
+2004,michigan,Hispanic,10,4512,391
+2004,minnesota,Hispanic,10,2659,257
+2004,mississippi,Hispanic,10,312,11
+2004,missouri,Hispanic,10,1594,82
+2004,montana,Hispanic,10,235,11
+2004,nebraska,Hispanic,10,1869,136
+2004,nevada,Hispanic,10,0,0
+2004,new hampshire,Hispanic,10,393,19
+2004,new jersey,Hispanic,10,18297,749
+2004,new mexico,Hispanic,10,13148,871
+2004,new york,Hispanic,10,45166,9433
+2004,north carolina,Hispanic,10,5378,539
+2004,north dakota,Hispanic,10,122,11
+2004,ohio,Hispanic,10,2742,156
+2004,oklahoma,Hispanic,10,3012,261
+2004,oregon,Hispanic,10,0,0
+2004,pennsylvania,Hispanic,10,8074,730
+2004,rhode island,Hispanic,10,2001,169
+2004,south carolina,Hispanic,10,1285,74
+2004,south dakota,Hispanic,10,181,13
+2004,tennessee,Hispanic,10,0,0
+2004,texas,Hispanic,10,123358,6473
+2004,utah,Hispanic,10,3787,188
+2004,vermont,Hispanic,10,58,1
+2004,virginia,Hispanic,10,5803,448
+2004,washington,Hispanic,10,8510,616
+2004,west virginia,Hispanic,10,97,8
+2004,wisconsin,Hispanic,10,3376,111
+2004,wyoming,Hispanic,10,533,55
+2004,american samoa,Hispanic,10,0,0
+2004,guam,Hispanic,10,0,0
+2004,northern marianas,Hispanic,10,0,0
+2004,puerto rico,Hispanic,10,0,0
+2004,virgin islands,Hispanic,10,0,0
+2004,alabama,Black,11,16667,594
+2004,alaska,Black,11,453,57
+2004,arizona,Black,11,3595,240
+2004,arkansas,Black,11,6920,462
+2004,california,Black,11,38053,1818
+2004,colorado,Black,11,2774,311
+2004,connecticut,Black,11,5153,200
+2004,delaware,Black,11,2100,129
+2004,district of columbia,Black,11,0,0
+2004,florida,Black,11,40869,1865
+2004,georgia,Black,11,35708,2125
+2004,hawaii,Black,11,265,19
+2004,idaho,Black,11,120,3
+2004,illinois,Black,11,24308,2012
+2004,indiana,Black,11,7514,285
+2004,iowa,Black,11,1243,83
+2004,kansas,Black,11,2671,112
+2004,kentucky,Black,11,4154,265
+2004,louisiana,Black,11,18239,1478
+2004,maine,Black,11,271,14
+2004,maryland,Black,11,20932,1063
+2004,massachusetts,Black,11,6108,374
+2004,michigan,Black,11,18132,1368
+2004,minnesota,Black,11,4789,374
+2004,mississippi,Black,11,14213,455
+2004,missouri,Black,11,9482,637
+2004,montana,Black,11,56,0
+2004,nebraska,Black,11,1139,69
+2004,nevada,Black,11,0,0
+2004,new hampshire,Black,11,208,8
+2004,new jersey,Black,11,16139,539
+2004,new mexico,Black,11,562,37
+2004,new york,Black,11,32584,2368
+2004,north carolina,Black,11,26725,1565
+2004,north dakota,Black,11,76,4
+2004,ohio,Black,11,19354,1437
+2004,oklahoma,Black,11,4189,206
+2004,oregon,Black,11,0,0
+2004,pennsylvania,Black,11,19082,1364
+2004,rhode island,Black,11,992,85
+2004,south carolina,Black,11,16057,619
+2004,south dakota,Black,11,117,11
+2004,tennessee,Black,11,0,0
+2004,texas,Black,11,38710,1562
+2004,utah,Black,11,381,25
+2004,vermont,Black,11,101,2
+2004,virginia,Black,11,19718,604
+2004,washington,Black,11,3861,265
+2004,west virginia,Black,11,785,55
+2004,wisconsin,Black,11,5529,383
+2004,wyoming,Black,11,95,7
+2004,american samoa,Black,11,0,0
+2004,guam,Black,11,0,0
+2004,northern marianas,Black,11,0,0
+2004,puerto rico,Black,11,0,0
+2004,virgin islands,Black,11,0,0
+2004,alabama,White,11,29299,861
+2004,alaska,White,11,5874,406
+2004,arizona,White,11,40980,1742
+2004,arkansas,White,11,23020,1080
+2004,california,White,11,166575,2858
+2004,colorado,White,11,37212,2146
+2004,connecticut,White,11,29698,430
+2004,delaware,White,11,5009,175
+2004,district of columbia,White,11,0,0
+2004,florida,White,11,95984,2754
+2004,georgia,White,11,51603,2875
+2004,hawaii,White,11,2485,152
+2004,idaho,White,11,16324,515
+2004,illinois,White,11,92152,2641
+2004,indiana,White,11,60471,1829
+2004,iowa,White,11,33251,660
+2004,kansas,White,11,27838,611
+2004,kentucky,White,11,37748,1391
+2004,louisiana,White,11,23047,1269
+2004,maine,White,11,14648,483
+2004,maryland,White,11,33332,914
+2004,massachusetts,White,11,53182,1709
+2004,michigan,White,11,96164,3047
+2004,minnesota,White,11,56032,1108
+2004,mississippi,White,11,14989,454
+2004,missouri,White,11,52036,2107
+2004,montana,White,11,10135,336
+2004,nebraska,White,11,18171,410
+2004,nevada,White,11,0,0
+2004,new hampshire,White,11,15067,646
+2004,new jersey,White,11,61131,889
+2004,new mexico,White,11,8047,98
+2004,new york,White,11,114469,3815
+2004,north carolina,White,11,56714,2801
+2004,north dakota,White,11,7376,107
+2004,ohio,White,11,111041,3070
+2004,oklahoma,White,11,27062,978
+2004,oregon,White,11,0,0
+2004,pennsylvania,White,11,112170,2741
+2004,rhode island,White,11,8403,280
+2004,south carolina,White,11,24219,695
+2004,south dakota,White,11,8238,235
+2004,tennessee,White,11,0,0
+2004,texas,White,11,123133,2874
+2004,utah,White,11,31392,772
+2004,vermont,White,11,7479,239
+2004,virginia,White,11,53042,985
+2004,washington,White,11,57796,2529
+2004,west virginia,White,11,17906,783
+2004,wisconsin,White,11,57891,552
+2004,wyoming,White,11,5813,287
+2004,american samoa,White,11,0,0
+2004,guam,White,11,0,0
+2004,northern marianas,White,11,0,0
+2004,puerto rico,White,11,0,0
+2004,virgin islands,White,11,0,0
+2004,alabama,Hispanic,11,681,25
+2004,alaska,Hispanic,11,326,31
+2004,arizona,Hispanic,11,23746,2367
+2004,arkansas,Hispanic,11,1410,119
+2004,california,Hispanic,11,187745,6769
+2004,colorado,Hispanic,11,10439,1713
+2004,connecticut,Hispanic,11,4821,230
+2004,delaware,Hispanic,11,403,40
+2004,district of columbia,Hispanic,11,0,0
+2004,florida,Hispanic,11,37058,1479
+2004,georgia,Hispanic,11,4495,394
+2004,hawaii,Hispanic,11,524,38
+2004,idaho,Hispanic,11,1746,140
+2004,illinois,Hispanic,11,19824,1606
+2004,indiana,Hispanic,11,2699,137
+2004,iowa,Hispanic,11,1368,80
+2004,kansas,Hispanic,11,2834,144
+2004,kentucky,Hispanic,11,553,21
+2004,louisiana,Hispanic,11,734,61
+2004,maine,Hispanic,11,109,7
+2004,maryland,Hispanic,11,3276,152
+2004,massachusetts,Hispanic,11,6621,632
+2004,michigan,Hispanic,11,3567,284
+2004,minnesota,Hispanic,11,2259,221
+2004,mississippi,Hispanic,11,242,8
+2004,missouri,Hispanic,11,1269,76
+2004,montana,Hispanic,11,220,14
+2004,nebraska,Hispanic,11,1476,116
+2004,nevada,Hispanic,11,0,0
+2004,new hampshire,Hispanic,11,345,21
+2004,new jersey,Hispanic,11,15213,575
+2004,new mexico,Hispanic,11,10528,696
+2004,new york,Hispanic,11,28304,2111
+2004,north carolina,Hispanic,11,3872,324
+2004,north dakota,Hispanic,11,128,8
+2004,ohio,Hispanic,11,2314,139
+2004,oklahoma,Hispanic,11,2436,196
+2004,oregon,Hispanic,11,0,0
+2004,pennsylvania,Hispanic,11,6195,554
+2004,rhode island,Hispanic,11,1578,156
+2004,south carolina,Hispanic,11,850,40
+2004,south dakota,Hispanic,11,112,13
+2004,tennessee,Hispanic,11,0,0
+2004,texas,Hispanic,11,102983,5269
+2004,utah,Hispanic,11,3413,293
+2004,vermont,Hispanic,11,63,2
+2004,virginia,Hispanic,11,5107,152
+2004,washington,Hispanic,11,7268,570
+2004,west virginia,Hispanic,11,113,5
+2004,wisconsin,Hispanic,11,3164,145
+2004,wyoming,Hispanic,11,447,56
+2004,american samoa,Hispanic,11,0,0
+2004,guam,Hispanic,11,0,0
+2004,northern marianas,Hispanic,11,0,0
+2004,puerto rico,Hispanic,11,0,0
+2004,virgin islands,Hispanic,11,0,0
+2004,alabama,Black,12,14353,511
+2004,alaska,Black,12,352,70
+2004,arizona,Black,12,3403,415
+2004,arkansas,Black,12,6161,454
+2004,california,Black,12,33567,3343
+2004,colorado,Black,12,2606,376
+2004,connecticut,Black,12,4561,107
+2004,delaware,Black,12,2079,93
+2004,district of columbia,Black,12,0,0
+2004,florida,Black,12,33189,2253
+2004,georgia,Black,12,30102,1517
+2004,hawaii,Black,12,160,9
+2004,idaho,Black,12,105,9
+2004,illinois,Black,12,21465,1992
+2004,indiana,Black,12,5644,295
+2004,iowa,Black,12,1167,105
+2004,kansas,Black,12,2597,132
+2004,kentucky,Black,12,3679,274
+2004,louisiana,Black,12,16804,2151
+2004,maine,Black,12,199,11
+2004,maryland,Black,12,19428,1022
+2004,massachusetts,Black,12,5468,448
+2004,michigan,Black,12,14437,886
+2004,minnesota,Black,12,5215,978
+2004,mississippi,Black,12,12709,328
+2004,missouri,Black,12,8854,615
+2004,montana,Black,12,55,1
+2004,nebraska,Black,12,1083,73
+2004,nevada,Black,12,0,0
+2004,new hampshire,Black,12,189,33
+2004,new jersey,Black,12,14265,397
+2004,new mexico,Black,12,425,23
+2004,new york,Black,12,26837,1963
+2004,north carolina,Black,12,22495,1176
+2004,north dakota,Black,12,74,7
+2004,ohio,Black,12,16572,1400
+2004,oklahoma,Black,12,3496,162
+2004,oregon,Black,12,0,0
+2004,pennsylvania,Black,12,16456,1345
+2004,rhode island,Black,12,849,46
+2004,south carolina,Black,12,14862,394
+2004,south dakota,Black,12,129,18
+2004,tennessee,Black,12,0,0
+2004,texas,Black,12,34265,2186
+2004,utah,Black,12,322,61
+2004,vermont,Black,12,81,2
+2004,virginia,Black,12,18223,748
+2004,washington,Black,12,3542,233
+2004,west virginia,Black,12,719,37
+2004,wisconsin,Black,12,4779,582
+2004,wyoming,Black,12,58,11
+2004,american samoa,Black,12,0,0
+2004,guam,Black,12,0,0
+2004,northern marianas,Black,12,0,0
+2004,puerto rico,Black,12,0,0
+2004,virgin islands,Black,12,0,0
+2004,alabama,White,12,26926,745
+2004,alaska,White,12,5541,430
+2004,arizona,White,12,38282,2233
+2004,arkansas,White,12,20907,1233
+2004,california,White,12,156345,6296
+2004,colorado,White,12,36400,2723
+2004,connecticut,White,12,28075,463
+2004,delaware,White,12,4710,148
+2004,district of columbia,White,12,0,0
+2004,florida,White,12,82622,2398
+2004,georgia,White,12,46448,2200
+2004,hawaii,White,12,2129,172
+2004,idaho,White,12,15289,550
+2004,illinois,White,12,87921,2903
+2004,indiana,White,12,54506,2001
+2004,iowa,White,12,33057,1053
+2004,kansas,White,12,27286,666
+2004,kentucky,White,12,34806,1266
+2004,louisiana,White,12,21547,1065
+2004,maine,White,12,13845,584
+2004,maryland,White,12,31826,832
+2004,massachusetts,White,12,49685,1872
+2004,michigan,White,12,91237,2950
+2004,minnesota,White,12,58889,2583
+2004,mississippi,White,12,13266,371
+2004,missouri,White,12,50304,1948
+2004,montana,White,12,9932,354
+2004,nebraska,White,12,18494,562
+2004,nevada,White,12,0,0
+2004,new hampshire,White,12,14183,909
+2004,new jersey,White,12,57539,930
+2004,new mexico,White,12,7482,78
+2004,new york,White,12,109369,3859
+2004,north carolina,White,12,50995,2269
+2004,north dakota,White,12,7412,123
+2004,ohio,White,12,105445,4157
+2004,oklahoma,White,12,25269,823
+2004,oregon,White,12,0,0
+2004,pennsylvania,White,12,107878,3328
+2004,rhode island,White,12,7895,188
+2004,south carolina,White,12,22443,500
+2004,south dakota,White,12,8488,350
+2004,tennessee,White,12,0,0
+2004,texas,White,12,114702,3247
+2004,utah,White,12,30714,2329
+2004,vermont,White,12,7213,230
+2004,virginia,White,12,50782,1411
+2004,washington,White,12,56136,2936
+2004,west virginia,White,12,17366,736
+2004,wisconsin,White,12,58652,2560
+2004,wyoming,White,12,5705,372
+2004,american samoa,White,12,0,0
+2004,guam,White,12,0,0
+2004,northern marianas,White,12,0,0
+2004,puerto rico,White,12,0,0
+2004,virgin islands,White,12,0,0
+2004,alabama,Hispanic,12,508,17
+2004,alaska,Hispanic,12,315,55
+2004,arizona,Hispanic,12,22866,3464
+2004,arkansas,Hispanic,12,1075,92
+2004,california,Hispanic,12,158515,13065
+2004,colorado,Hispanic,12,9174,1743
+2004,connecticut,Hispanic,12,4348,128
+2004,delaware,Hispanic,12,334,14
+2004,district of columbia,Hispanic,12,0,0
+2004,florida,Hispanic,12,29566,1721
+2004,georgia,Hispanic,12,3523,272
+2004,hawaii,Hispanic,12,499,37
+2004,idaho,Hispanic,12,1499,112
+2004,illinois,Hispanic,12,17135,1425
+2004,indiana,Hispanic,12,2121,121
+2004,iowa,Hispanic,12,1208,92
+2004,kansas,Hispanic,12,2711,106
+2004,kentucky,Hispanic,12,426,19
+2004,louisiana,Hispanic,12,655,56
+2004,maine,Hispanic,12,102,5
+2004,maryland,Hispanic,12,2793,118
+2004,massachusetts,Hispanic,12,5438,580
+2004,michigan,Hispanic,12,2981,184
+2004,minnesota,Hispanic,12,2415,448
+2004,mississippi,Hispanic,12,171,2
+2004,missouri,Hispanic,12,1219,68
+2004,montana,Hispanic,12,219,7
+2004,nebraska,Hispanic,12,1334,111
+2004,nevada,Hispanic,12,0,0
+2004,new hampshire,Hispanic,12,279,34
+2004,new jersey,Hispanic,12,13441,452
+2004,new mexico,Hispanic,12,9043,464
+2004,new york,Hispanic,12,22954,1903
+2004,north carolina,Hispanic,12,3077,189
+2004,north dakota,Hispanic,12,114,3
+2004,ohio,Hispanic,12,2004,147
+2004,oklahoma,Hispanic,12,2047,140
+2004,oregon,Hispanic,12,0,0
+2004,pennsylvania,Hispanic,12,5182,442
+2004,rhode island,Hispanic,12,1239,64
+2004,south carolina,Hispanic,12,746,26
+2004,south dakota,Hispanic,12,129,30
+2004,tennessee,Hispanic,12,0,0
+2004,texas,Hispanic,12,89384,6720
+2004,utah,Hispanic,12,3047,643
+2004,vermont,Hispanic,12,74,1
+2004,virginia,Hispanic,12,4092,317
+2004,washington,Hispanic,12,6390,525
+2004,west virginia,Hispanic,12,85,3
+2004,wisconsin,Hispanic,12,2777,308
+2004,wyoming,Hispanic,12,386,27
+2004,american samoa,Hispanic,12,0,0
+2004,guam,Hispanic,12,0,0
+2004,northern marianas,Hispanic,12,0,0
+2004,puerto rico,Hispanic,12,0,0
+2004,virgin islands,Hispanic,12,0,0
